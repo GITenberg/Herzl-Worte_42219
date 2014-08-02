@@ -1,0 +1,5399 @@
+.. -*- encoding: utf-8 -*-
+
+===========
+Herzl-Worte
+===========
+
+.. meta::
+  :PG.Id: 42219
+  :PG.Title: Herzl-Worte
+  :PG.Released: 2013-02-26
+  :PG.Rights: Public Domain
+  :PG.Producer: Norbert Langkau
+  :PG.Producer: Jana Srna
+  :PG.Producer: Enrico Segre
+  :PG.Producer: the Online Distributed Proofreading Team at http://www.pgdp.net
+  :DC.Creator: Theodor Herzl
+  :DC.Creator: Felix A. Theilhaber
+  :DC.Title: Herzl-Worte
+  :DC.Language: de
+  :DC.Created: 1921
+  :coverpage: images/umschlag.jpg
+
+.. pgheader::
+
+
+.. role:: gesperrt
+   :class: gesperrt
+
+.. role:: kurges
+   :class: italics gesperrt
+
+.. style:: title
+   :class: center
+
+
+.. |nbs| unicode:: U+00A0  .. non-breaking space
+   :trim:
+
+.. |nbs4| replace:: |nbs| |nbs| |nbs| |nbs|
+
+.. |_| unicode:: U+00AD  .. soft hyphen
+   :trim:
+
+.. |--| unicode:: U+2014  .. em dash
+   :trim:
+
+.. spaced ellisis and mdash
+
+.. |dots| replace:: .\ |nbs| .\ |nbs| .\
+
+.. |_--_| replace:: |nbs| |--| |nbs|
+
+.. |_--| replace:: |nbs| |--|
+
+.. asterisk: the safest
+
+.. |pente| replace:: \*
+
+.. black small star
+
+.. .. |pente| unicode:: U+2B51
+
+
+.. black star
+
+.. .. |pente| unicode:: U+2605
+
+
+.. star operator
+
+.. .. |pente| unicode:: U+22C6
+
+
+.. arabic five pointed star
+
+.. .. |pente| unicode:: U+066D
+
+
+.. container:: coverpage
+
+    [pg 1]
+
+    .. image:: images/illu_001.png
+       :align: center
+       :width: 25%
+       :alt: [Logo: WV]
+
+    .. vfill::
+
+    .. vfill::
+
+    .. vfill::
+
+[pg!2]
+
+.. clearpage::
+
+[pg 3]
+
+
+.. container:: frontispiece
+
+
+   .. class:: xx-large center
+
+   | :gesperrt:`HERZL-WORTE`
+
+   .. vspace:: 3
+
+   .. vfill::
+
+   .. class:: center large
+
+   | :kurges:`Zusammengestellt`
+
+   .. class:: center large
+
+   | :kurges:`von Felix A. Theilhaber`
+
+   .. vspace:: 2
+
+   .. class:: center large
+ 
+   | 1 |nbs4| 9 |nbs4| 2 |nbs4| 1
+
+   .. image:: images/illu_title.png
+      :align: center
+      :width: 100%
+      :alt: ———————————————————————————————————
+
+   .. class:: center large
+
+   | WELT-VERLAG |pente| BERLIN
+
+
+[pg 4]
+
+.. container:: verso
+
+   .. vfill::
+
+   .. class:: center large
+
+   | :kurges:`Copyright 1921 by Welt-Verlag · Berlin`
+   | :kurges:`Einbandentwurf von Menachem Birnbaum`
+   | :kurges:`Gedruckt bei Poeschel & Trepte · Leipzig`
+
+[pg 5]
+
+.. mainmatter::
+
+.. toc-entry::
+
+:gesperrt:`THEODOR HERZL`
+=========================
+
+Er ging zu den Reichen und Mächtigen der Erde und
+sprach zu Königen: „Wir wollen hinausgeleiten“, sprach er,
+„das jüdische Volk, das Heer der Hungernden und die Unzahl
+der Getriebenen und der Zerquälten aus dem bittern
+Joch, aus der schweren Last der Knechtschaft, und ihnen
+geben ein Heim zur Erlösung, eine Stätte des Rechts und ein
+Land des Glückes.“\ |_--_|\ Also sprach er.
+
+Als aber die Großen in Israel seine Kunde vernahmen,
+lachten sie seiner und spotteten Träume die Reden. Und sie
+eiferten gegen ihn und machten seinem Werke einen schlechten
+Namen. Nur etwelche wenige folgten seiner Losung. Aus
+den Reihen der Jugend und aus den dunklen Ghetti des
+Ostens. Die gedachten des Vergangenen zu neuen Taten und
+kürten den Kommenden die Erde, die einst den Vätern gewesen.
+
+Aber der Herrscher, dem das Land untertänig, hörte nicht
+harten Herzens und die Tore der Heimat standen nicht offen
+dem Strome der Irrenden. Hiefür drückten und drängten
+Not und Verfolgung nur noch mehr und von Neuem. Die
+Qualen der Hölle taten sich auf. Tausende wurden getötet,
+zu Abertausenden geschlagen und zu Millionen gejagt und
+getrieben. Blut floß, und den Schimmer einer Freiheit überdunkelte
+die rohe Gewalt böswilliger Feinde.
+
+Da überkam Verzweiflung die bisher Hoffnungsfreudigen.
+Schrecken griff Platz im Lager der Eigenen. Und selbst
+etliche der Jünger löckten wider den Meister und murrten
+[pg 6]
+laut. Und ihre wuchtigen Worte fielen wie Peitschenschläge
+auf sein Haupt. Er aber trug es ergeben und machte nur
+noch mehr die Nächte zu Tagen der Arbeit und doppelte die
+Mühen für sein armes, betörtes Volk. _`Denn nun brachen Sorge`
+und Hingabe, Schmerz und Liebe allzufrüh sein gehetztes
+Herz. Allzufrüh.
+
+Also ist die Geschichte des großen Führers des jüdischen
+Volkes, des ersten Führers seit den Tagen ihrer Vertreibung.
+Nunmehr werden seine deutungsreichen Worte die Taten des
+Aufbruchs geleiten und Erinnerung wecken, da die Verheißung
+anfängt, sich zu gestalten.
+
+   | Wilmersdorf, in den Tagen von San Remo.
+   
+.. class:: right
+
+| FELIX A. THEILHABER.
+
+[pg 7]
+
+
+:kurges:`VON ZION`
+==================
+
+[pg!8]
+
+.. clearpage::
+
+[pg 9]
+
+.. toc-entry:: Das Volk
+
+:gesperrt:`DAS VOLK`
+--------------------
+
+
+Es ist ja mancher hingekommen, der lachen wollte,
+und dem das Lachen verging, als die jüdische Nation,
+die arme, gequälte, aus vielen Wunden blutende,
+die Totgesagte, Totgeglaubte, die dennoch nicht
+sterben kann und will, plötzlich vor ihm aufstand,
+in der ganzen Majestät ihres Leidens und mit dem
+Glanze der Hoffnung in ihren Augen. Wir sind ein
+unglückliches Volk, aber ein Volk, ein Volk.
+
+.. class:: right small
+
+| (*Ergebnisse des Kongresses.*)
+
+.. vspace:: 2
+
+
+
+Wir sind ein Volk\ |_--_|\ der Feind macht uns ohne
+unseren Willen dazu, wie das immer in der Geschichte
+so war. In der Bedrängnis stehen wir zusammen und
+da entdeckten wir plötzlich unsere Kraft. Ja, wir
+haben die Kraft, einen Staat, und zwar einen Musterstaat
+zu bilden. Wir haben alle menschlichen und
+sachlichen Mittel, die dazu nötig sind.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+
+
+Ein Volk kann warten. Es lebt länger als Menschen
+und Regierungen.
+
+.. class:: right small
+
+| (*Der Basler Kongreß.*)
+
+.. vspace:: 2
+
+
+Da ist die tiefe Wurzel aller Uebel, von denen die
+Juden heimgesucht sind. Von außen wird unsere :gesperrt:`Solidarität`
+angenommen, und danach handeln unsere
+Feinde. Für Fehler und Vergehen einzelner unter
+[pg 10]
+uns wird die Gesamtheit haftbar gemacht, aber im
+jüdischen Volke besteht das Gefühl der Solidarität
+nicht\ |_--_|\ noch nicht.
+
+.. class:: right small
+
+| (*Feuer in Galizien.*)
+
+.. vspace:: 2
+
+
+
+Dabei bemerkt man aus Unwissenheit oder Engherzigkeit
+nicht, daß unser Wohlergehen uns als Juden
+schwächt und unsere Besonderheiten auslöscht.
+Nur der Druck preßt uns wieder an den alten Stamm,
+nur der Haß unserer Umgebung macht uns wieder
+zu Fremden.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+
+
+Die Grausamkeiten des Mittelalters waren etwas
+Unerhörtes, und die Menschen, die der Folter widerstanden,
+müssen in sich etwas sehr Starkes gehabt
+haben, eine :gesperrt:`innerliche Einheit`, die uns abhanden
+gekommen ist. Eine Generation, die vom Judentum
+abseits aufgewachsen ist, hat diese Einheit nicht
+und kann ebensowenig mit unserer Vergangenheit
+rechnen, als in die Zukunft blicken. Darum wollen
+wir uns wieder in das Judentum zurückziehen und
+uns aus dieser Burg nicht mehr werfen lassen. Man
+mag diesen Volksgedanken, der da ist, wegzulächeln
+versuchen, aber er ist da. Ihn wollen wir hochhalten
+und hochflattern lassen. Und nachdem wir dieses Bekenntnis
+abgelegt haben, nachdem wir gesagt haben,
+daß wir Juden sind, dann erst wollen wir an der Misere
+anderer teilnehmen.
+
+.. class:: right small
+
+| (*Rede in der Österr. Union.*)
+
+.. vspace:: 2
+
+
+
+Es genügt nicht, daß wir uns als ein Volk fühlen
+und erkennen; nach dem Volksbewußtsein muß auch
+der Volkswille erwachen.
+
+.. class:: right small
+
+| (*II. Kongreßrede.*)
+
+.. vspace:: 2
+
+[pg 11]
+
+
+.. toc-entry:: Die Nation
+
+:gesperrt:`DIE NATION`
+----------------------
+
+Wir sind eine :gesperrt:`Nation`. Wer befindet sich im Widerspruch
+mit der Geschichte?
+
+.. class:: right small
+
+| (*Dr. Güdemanns Nationaljudentum.*)
+
+.. vspace:: 2
+
+
+So sind und bleiben wir denn, ob wir es wollen
+oder nicht, eine historische Gruppe von erkennbarer
+Zusammengehörigkeit.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+
+Der Feind aber ist der eiserne Reifen der Nation.
+
+.. class:: right small
+
+| (*Der Zionismus.*)
+
+.. vspace:: 2
+
+
+Wir wollen uns ferner nicht eine andere Nationalität als Maske vorbinden.
+
+.. class:: right small
+
+| (*V. Kongreßrede.*)
+
+.. vspace:: 2
+
+
+Wir bleiben wahrnehmbar, wir sind eine Gruppe,
+eine historische Gruppe von Menschen, die erkennbar
+zusammengehört und einen gemeinsamen Feind
+hat, das scheint mir die ausreichende Definition für
+die Nation zu sein. Ich verlange von der :gesperrt:`Nation`
+nicht eine Gleichsprachigkeit oder vollkommen gemeinsame
+Merkmale der Rasse. Diese ganz ruhige Definition
+genügt für die Nation. Wir sind eine erkennbar
+zusammengehörende historische Gruppe von Menschen,
+die durch den gemeinsamen Feind zusammengehalten
+werden. Das sind wir, ob wir es leugnen
+oder nicht, ob wir es wissen oder nicht, ob wir es
+wollen oder nicht.
+
+.. class:: right small
+
+| (*Rede in der Österr. Union.*)
+
+.. vspace:: 2
+
+[pg 12]
+Es beruht auf der Erkenntnis einer Anzahl von
+Menschen, daß sie durch geschichtliche Umstände zusammengehören
+und in der Gegenwart aufeinander
+angewiesen sind, wenn sie nicht zugrunde gehen sollen.
+
+.. class:: right small
+
+| (*Dr. Güdemanns Nationaljudentum.*)
+
+.. vspace:: 2
+
+Die Motive der Menschen sind so verschieden, wie
+sie selbst. Zusammen bilden sie das Dickicht der Nation.
+Wer aber keinen freien Ueberblick hat, der sieht,
+wie man zu sagen pflegt, den Wald vor lauter Bäumen
+nicht.
+
+.. class:: right small
+
+| (*M. C. Montefiores Ansichten.*)
+
+.. vspace:: 2
+
+Diesen Juden müßte man eine Beschäftigung im
+Freien geben. Nun ist kein Mensch reich genug, um
+den Transport der Massen herbeizuführen. Das kann
+nur erfolgen, wenn man den Gedanken in die Massen
+hineinlegt, wenn man den Mann dazu anregt, sich
+selbst zu helfen. Das ist ungefähr so, wie wenn Sie
+einen Elefanten aufheben wollten, um ihn an einen
+andern Ort zu bringen; da brauchte man einen furchtbar
+großen Apparat dazu\ |_--_|\ die Elefantenjäger aber
+kitzeln ihn mit einem Stachel und lenken ihn dorthin,
+wo sie ihn haben wollen. Dieser Stachel, mit
+dem wir die Massen nach einem besseren Punkte
+bringen wollen, ist die nationale Idee.
+
+.. class:: right small
+
+| (*Rede in Wien.*)
+
+.. vspace:: 2
+
+[pg 13]
+
+
+.. toc-entry:: Staatsbürgertum
+
+:gesperrt:`STAATSBÜRGERTUM`
+---------------------------
+
+Wir haben :gesperrt:`Vaterländer`, das sind die, wo wir
+Staatsbürger sind\ |_--_|\ so weit man es eben gestattet\ |_--_|\
+aber wir haben kein Mutterland. Und dieses Mutterland
+sucht der Zionismus mit der Seele.
+
+.. class:: right small
+
+| (*Dr. Güdemanns Nationaljudentum.*)
+
+.. vspace:: 2
+
+
+
+Man gehört einem :gesperrt:`Vaterland` nicht an, sondern
+es gehört einem; jedem einzelnen gehört das ganze
+Vaterland. Wem aber sein Vaterland nicht gehört, der
+ist übel dran.
+
+.. class:: right small
+
+| (*Protestrabbiner.*)
+
+.. vspace:: 2
+
+
+
+Vergebens bringen wir dieselben Opfer an Gut und
+Blut wie unsere Mitbürger, vergebens bemühten wir
+uns, den Ruhm unserer Vaterländer in Künsten und
+Wissenschaften, ihren Reichtum durch Handel und
+Verkehr zu erhöhen. In unsern Vaterländern, in denen
+wir ja auch schon seit Jahrhunderten wohnen, werden
+wir als Fremdlinge angeschrieen; oft von solchen,
+deren Geschlechter noch nicht im Lande waren, als
+unsere Väter da schon seufzten. Wer der Fremde im
+Lande ist, das kann die Mehrheit entscheiden; es ist
+eine Machtfrage, wie alles im Völkerverkehre. Ich
+gebe nichts von unserem ersessenen guten :gesperrt:`Recht`
+preis, wenn ich das als ohnehin mandatloser Einzelner
+sage.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+[pg 14]
+
+
+.. toc-entry:: Judenpolitik
+
+:gesperrt:`JUDENPOLITIK`
+------------------------
+
+
+Durch unsere zweitausendjährige Verstreuung sind
+wir ohne einheitliche Leitung unserer :gesperrt:`Politik` gewesen.
+Das aber halte ich für unser Hauptunglück.
+Das hat mehr geschadet als alle Verfolgungen. Denn
+es war niemand da, der uns\ |_--_|\ wäre es auch nur aus
+monarchistischem Eigennutz\ |_--_|\ zu rechten Männern
+erzogen hätte. Im Gegenteil. Zu allen schlechten Gewerben
+wurden wir hingedrängt, im Ghetto festgehalten,
+wo wir aneinander verkamen, und als man uns
+herausließ, wollte man plötzlich, daß wir gleich die
+Gewohnheiten der Freiheit hätten.
+
+.. class:: right small
+
+| (*Theodor Herzl und Baron Hirsch.*)
+
+.. vspace:: 2
+
+
+
+Ein Volk kann sich nur selbst helfen; kann es das
+nicht, so ist ihm eben nicht zu helfen.
+
+.. class:: right small
+
+| (*II. Kongreßrede.*)
+
+.. vspace:: 2
+
+
+
+Nur bei uns Juden sträuben sich noch manche
+ängstlich, in der Judenfrage ein Politikum zu sehen.
+Diese Angst aber wird uns mehr Mitleid als Zorn
+einflößen, wenn wir sie recht verstehen. Es ist eine
+Platzfurcht, die noch aus der engen Judengasse
+stammt.
+
+.. class:: right small
+
+| (*VI. Kongreßrede.*)
+
+.. vspace:: 2
+
+
+
+Die Judensache muß dem Belieben vereinzelter
+Personen\ |_--_|\ wie gutwillig diese auch seien\ |_--_|\ entrückt
+sein. Es muß ein Forum entstehen, vor dem
+[pg 15]
+jeder für das, was er in der Judenfrage tut und läßt,
+zur Rechenschaft gezogen werden kann.
+
+.. class:: right small
+
+| (*An Hildesheimer; bei* |A. Friedemann|_)
+
+.. vspace:: 2
+
+
+
+Im übrigen ist die Politik bei uns in Altneuland
+kein Geschäft oder Beruf, weder für Männer noch
+für Frauen.
+
+Leute, die von ihrer deklamierten Ueberzeugung
+zu leben versuchen, statt von ihrer Arbeit, werden
+rasch erkannt, verachtet und unschädlich gemacht.
+
+.. class:: right small
+
+| (|Altneuland|_)
+
+.. vspace:: 2
+
+
+
+Von Anfang an war ich der Ansicht, daß eine :gesperrt:`diplomatische`
+Initiative von England werde kommen
+müssen, weil England, wenn es\ |_--_|\ gleichsam in
+der Luftlinie\ |_--_|\ nach Indien blickt, Palästina streifen
+muß, und weil England heute noch eine gewisse „serenity“
+in der Auffassung der Judenfrage besitzt.
+
+.. class:: right small
+
+| (*Der ewige Jude.*)
+
+.. vspace:: 2
+
+
+
+.. toc-entry:: Der Zionismus
+
+:gesperrt:`DER ZIONISMUS`
+-------------------------
+
+
+Wir sind sozusagen nach Hause gegangen. Der
+:gesperrt:`Zionismus` ist die Heimkehr zum Judentum noch
+vor der Rückkehr ins Judenland.
+
+.. class:: right small
+
+| (*II. Kongreßrede.*)
+
+.. vspace:: 2
+
+
+
+In einem Worte ist unsere Tätigkeit und ihr Fortgang
+zusammenzufassen: Wir organisieren die Judenheit
+für ihre kommenden Geschicke.
+
+.. class:: right small
+
+| (*IV. Kongreßrede.*)
+
+.. vspace:: 2
+
+[pg 16]
+Ueberall soll man erfahren, was der :gesperrt:`Zionismus`,
+den man für eine Art von chiliastischem Schrecken
+ausgab, in Wirklichkeit ist: eine gesittete, gesetzliche,
+menschenfreundliche Bewegung nach dem alten Ziel
+der Sehnsucht unseres Volkes.
+
+.. class:: right small
+
+| (*II. Kongreßrede.*)
+
+.. vspace:: 2
+
+Der :gesperrt:`politische Zionismus` denkt nicht lediglich
+daran, die notleidenden Juden fortzuschaffen;
+es muß auch im vorhinein dafür gesorgt werden, daß
+sie das heutige Elend nicht mit einem unbestimmten,
+unberechenbaren vertauschen.
+
+.. class:: right small
+
+| (*Der Kongreß.*)
+
+.. vspace:: 2
+
+
+
+Bisher war unsere :gesperrt:`Bewegung` gleichsam im
+Ghetto geblieben, da hat sie freilich schon genug Mißverständnisse
+und Kämpfe erregt. Nun ist sie ins Freie
+hinausgekommen und beschäftigt die öffentliche Meinung
+auf dem ganzen Erdenrund. Viele Hunderte von
+Zeitungen haben sie ihren Lesern in der eben vergangenen
+Woche mitgeteilt. Es gibt noch tote Stellen,
+wo man ratlos schweigt; auch das wird nicht mehr
+lange dauern. Wenn einmal die Glocken zu läuten
+anfangen, müssen alle Glocken läuten.
+
+.. class:: right small
+
+| (*Ergebnisse des Kongresses.*)
+
+.. vspace:: 2
+
+
+
+Der :gesperrt:`Zionismus` fegt als reinigender Sturm durch
+das ganze Judentum. Die dürren Aeste werden geknickt,
+in den Wipfeln muß Raum sein für die ewig
+jungen Triebe, die hinauf wollen in das Sonnenlicht.
+
+.. class:: right small
+
+| (*M. C. Montefiores Ansichten.*)
+
+.. vspace:: 2
+
+[pg 17]
+So halten die Zionisten sich für verpflichtet, immer
+unter Aufrechterhaltung ihrer Prinzipien und ihres
+Programmes, wo immer es notwendig ist, den Versuch
+zu machen, das harte Los der unterdrückten Juden
+durch angemessene Mittel zu mildern.
+
+.. _Fremdenkommission:
+
+.. class:: right small
+
+| (*Herzl vor der Londoner Fremdenkommission.*)
+
+.. vspace:: 2
+
+
+
+Ich weiß nicht, wann ich sterben werde, aber der
+:gesperrt:`Zionismus` wird nie sterben. Seit den Tagen von
+Basel hat das jüdische Volk wieder eine Volksvertretung;
+folglich wird der Judenstaat in seinem eigenen
+Lande erstehen.
+
+.. class:: right small
+
+| (*Selbstbiographie.*)
+
+.. vspace:: 2
+
+
+
+Die Rolle der Reichen in der Gemeinde, die Gefügigkeit
+mancher Priester, das zwitterhafte Bestreben,
+die alte Tradition mit einem übertriebenen Nachahmen
+der Landesgewohnheiten zu vereinigen, die
+dreiste Bettelhaftigkeit der wirtschaftlich Schwächeren\
+|_--_|\ für das alles hat der Geschichtskundige Erklärungen
+voller Nachsicht. Aber wenn wir der Gemeinde
+auch nicht zürnen, so sind wir doch weit entfernt,
+uns von ihr beeinflussen zu lassen. Der Zionismus
+stellt eine andere Gemeinde des Judentums
+auf, eine neue, größere, eine einzige. Und ein anderes
+repräsentatives System.
+
+.. class:: right small
+
+| (*Der Basler Kongreß.*)
+
+.. vspace:: 2
+
+
+
+Ich glaube, Ihnen sagen zu können, daß wir dem
+Judentum etwas gebracht haben; der Jugend eine
+[pg 18]
+Hoffnung, dem Alter einen Traum, allen Menschen
+etwas Schönes.
+
+.. class:: right small
+
+| (*1. Berliner Rede. Siehe* |Friedemann|_)
+
+.. |Friedemann| replace:: *A. Friedemann, „Das Leben Theodor Herzls“.*
+
+.. vspace:: 2
+
+
+
+Ich weiß nicht, ob ich selbst es erleben werde, aber
+ich bin fest überzeugt, daß Leute meines Alters die
+Verwirklichung unseres Wunsches sehen werden. Wir
+werden im Lande Israels als freie Menschen wohnen.
+Ob ich selbst dabei sein werde oder nicht, ist für die
+Sache gleichgültig. Aber wenn ich dabei sein werde,
+so werde ich mich über nichts mehr so freuen, von
+nichts mehr so hingerissen sein, wie vom ersten Baseler
+Kongreß im Jahre 1897. Denn das war das erste
+Lebenszeichen des scheintoten jüdischen Volkes.
+
+.. class:: right small
+
+| (*Rede in London.*)
+
+.. vspace:: 2
+
+
+.. toc-entry:: Von der Idee
+
+:gesperrt:`VON DER IDEE`
+------------------------
+
+Niemand ist stark oder reich genug, um ein Volk
+von einem Wohnort nach einem andern zu versetzen.
+Das vermag nur eine :gesperrt:`Idee`. Die Staatsidee hat wohl
+eine solche Gewalt. Die Juden haben die ganze Nacht
+ihrer Geschichte hindurch nicht aufgehört, diesen königlichen
+Traum zu träumen: „Uebers Jahr in Jerusalem!“
+ist unser altes Wort. Nun handelt es sich
+darum, zu zeigen, daß aus dem Traum ein tagheller
+Gedanke werden kann.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+[pg 19]
+Von irgend einem Einzelnen betrieben, wäre es eine
+recht verrückte Geschichte\ |_--_|\ aber wenn viele Juden
+gleichzeitig darauf eingehen, ist es vollkommen vernünftig,
+und die Durchführung bietet keine nennenswerten
+Schwierigkeiten. Die Idee hängt nur von der
+Anzahl der Anhänger ab.
+
+Die Juden, die wollen, werden ihren Staat haben
+und sie werden ihn verdienen.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+
+
+Durch den Ernst und die Ruhe unserer Beratungen
+können wir das Ansehen dieser Tribüne immer höher
+heben. Durch Unbesonnenheiten und Gezänke würden
+wir es rasch zerstören. Diese Tribüne wird so
+hoch sein wie die Reden, die man auf ihr hält. Unseren
+Worten verleiht keine äußere Macht Nachdruck;
+wenn sie also irgend eine Bedeutung haben sollen,
+kann es nur von der inneren Macht der Idee kommen
+und von der Reinheit der Gesinnungen, welche hier
+verkündet werden. Das muß sich jeder von uns beständig
+vor Augen halten, wenn er hier für das jüdische
+Volk und zum jüdischen Volk sprechen will.
+
+.. class:: right small
+
+| (*III. Kongreßrede.*)
+
+.. vspace:: 2
+
+
+
+Es ist merkwürdig, daß wir Juden diesen königlichen
+Traum während der langen Nacht unserer Geschichte
+geträumt haben. Jetzt bricht der Tag an. Wir
+brauchen uns bloß den Schlaf aus den Augen zu reiben,
+unsere Glieder zu strecken und den Traum in
+Wirklichkeit zu verwandeln.
+
+.. class:: right small
+
+| (*A Solution of the Jewish Question.*)
+
+.. vspace:: 2
+
+[pg 20]
+Alte Gefangene gehen nicht gern aus dem Kerker.
+Wir werden sehen, ob uns schon die Jugend, die wir
+brauchen, nachgewachsen ist; die Jugend, welche die
+Alten mitreißt, auf starken Armen hinausträgt und
+die Vernunftgründe umsetzt in Begeisterung.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+
+
+Eine :gesperrt:`Fahne`, was ist das? Eine Stange mit einem
+Fetzen Tuch. Nein, mein Herr, eine Fahne ist mehr
+als das. Mit einer Fahne führt man die Menschen,
+wohin man will, selbst ins Gelobte Land.
+
+Für eine :gesperrt:`Fahne` leben und sterben sie, es ist sogar
+das Einzige, wofür sie in Massen zu sterben
+bereit sind, wenn man sie dazu erzieht. Glauben Sie
+mir, die Politik eines ganzen Volkes\ |_--_|\ besonders
+wenn es so in aller Welt zerstreut ist\ |_--_|\ macht man nur
+mit Imponderabilien, die hoch in der Luft schweben.
+
+.. class:: right small
+
+| (*Herzl und Baron Hirsch.*)
+
+.. vspace:: 2
+
+
+
+Auch das Ideal wird immer neu geboren, und es
+gibt Renaissancen, die unsereiner nicht mehr begreift.
+
+.. class:: right small
+
+| (|Altneuland|_)
+
+.. vspace:: 2
+
+
+
+Wir verstehen, daß für eine Gemeinschaft von
+Menschen das Ideal ein Nutzen, ein Vorteil\ |_--_|\ sagen
+wir es heraus: daß es unentbehrlich ist. Das Ideal
+zieht uns hinan.
+
+.. class:: right small
+
+| (|Altneuland|_)
+
+.. vspace:: 2
+
+[pg 21]
+
+
+.. toc-entry:: Mittel und Wege
+
+:gesperrt:`MITTEL UND WEGE`
+---------------------------
+
+
+Unsere Wochenschrift ist ein „\ :gesperrt:`Judenblatt`\“.
+Wir nehmen dieses Wort, das ein Schimpf sein soll,
+und wollen daraus ein Wort der Ehre machen.
+
+.. class:: right small
+
+| (*Programm der Welt.*)
+
+.. vspace:: 2
+
+
+
+Die künstlichen Mittel, die man bisher zur Ueberwindung
+des Judennotstandes aufwandte, waren entweder
+zu kleinlich\ |_--_|\ wie die verschiedenen Kolonisierungen\
+|_--_|\ oder falsch gedacht.
+
+Was ist denn damit getan, wenn man ein paar
+tausend Juden in eine andere Gegend bringt? Entweder
+sie gedeihen, und dann entsteht mit ihrem Vermögen
+der Antisemitismus\ |_--_|\ oder sie gehen gleich
+zugrunde.
+
+Das wäre gerade so, wie wenn man dem Juden
+sagte: „Da hast du eine Armbrust, zieh' in den
+Krieg!“\ |_--_|\ Was? Mit einer Armbrust, wenn die anderen
+Kleinkaliber-Gewehre und Kruppsche Kanonen
+haben?
+
+Die Armbrust ist eine schöne Waffe, und sie stimmt
+mich elegisch, wenn ich Zeit habe. Aber sie gehört
+ins Museum.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+
+
+Kommt einer bei Nacht und Nebel heimlich heran,
+so darf er sich nicht wundern, wenn man ihm
+Halt! Wer da? entgegenruft. Und um so schlimmer
+[pg 22]
+für ihn, wenn er darauf keine gute, klare Antwort
+geben kann. Uebrigens ist das auch gar nicht die Situation,
+in der irgend eine Antwort unverdächtig
+klingt. Wir machen es darum anders. Wir erklären
+unsere Absichten am hellen Tage, den wir Gott sei
+Dank nicht zu scheuen haben.
+
+.. class:: right small
+
+| (*III. Kongreßrede.*)
+
+.. vspace:: 2
+
+
+
+Um den Kranken nur von einer Seite auf die andere
+zu legen, brauchte nicht so viel Scharfsinn, Mühe und
+Geld aufgewendet werden. Versuchen wir lieber, ihn
+zu heilen.
+
+.. class:: right small
+
+| (*III. Kongreßrede.*)
+
+.. vspace:: 2
+
+
+
+Wären die Professoren nicht so schrecklich zerstreute
+Menschen, die ihren Regenschirm immer irgendwo
+im Altertum stehen lassen, sie müßten uns
+eigentlich zuschauen, ob wir klug oder töricht schaffen.
+Selbst unsere Fehler könnten manche Lehre
+ergeben. Aber die Herren Professoren, die das Werdende
+nie verstehen, kommen erst später; nachher
+freilich wissen sie alles besser als wir, und sie erklären
+uns das Gewordene.
+
+.. class:: right small
+
+| (*Unterwegs.*)
+
+.. vspace:: 2
+
+
+
+Man findet jüdisches :gesperrt:`Geld` in schweren Massen
+für eine chinesische Anleihe, für Neger-Bahnen in
+Afrika, für die abenteuerlichsten Unternehmungen\
+|_--_|\ und für das tiefste, unmittelbarste, quälendste Bedürfnis
+der Juden selbst fände man keines?
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+[pg 23]
+In der jüdischen :gesperrt:`Finanzmacht` schlummern
+noch sehr viele ungenützte politische Kräfte. Von den
+Feinden des Judentums wird diese Finanzmacht als
+so wirksam dargestellt, wie sie sein könnte, aber tatsächlich
+nicht ist. Die armen Juden spüren nur den
+Haß, den diese Finanzmacht erregt; den Nutzen, die
+Linderung ihrer Leiden, welche :gesperrt:`bewirkt` werden
+könnte, haben die armen Juden nicht. Die Kreditpolitik
+der großen Finanzjuden müßte sich in den
+Dienst der Volksidee stellen. Finden aber diese mit
+ihrer Lage ganz zufriedenen Herren sich nicht bewogen,
+etwas für ihre Stammesbrüder zu tun, die man
+mit Unrecht für die großen Vermögen einzelner verantwortlich
+macht, so wird die Verwirklichung dieses
+Planes Gelegenheit geben, eine reinliche Scheidung
+zwischen ihnen und dem übrigen Teile des Judentums
+durchzuführen.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+
+
+Ich habe niemals Wunder versprochen, sondern nur
+die Selbsthilfe als den Weg der Erlösung bezeichnet.
+
+.. class:: right small
+
+| (*Rede im Makkabäerklub.*)
+
+.. vspace:: 2
+
+
+
+.. toc-entry:: Der Auszug
+
+:gesperrt:`DER AUSZUG`
+----------------------
+
+Dem deutschen Kaiser werde ich sagen: Lassen Sie
+uns ziehen! Wir sind Fremde, man läßt uns nicht
+im Volke aufgehen, wir können es auch nicht. Lassen
+Sie uns ziehen! Ich will Ihnen die Mittel und Wege
+angeben, deren ich mich für den Auszug bedienen
+[pg 24]
+will, damit keine wirtschaftliche Störung, keine Leere
+hinter uns eintrete.
+
+.. class:: right small
+
+| (*Theodor Herzl und Baron Hirsch.*)
+
+.. vspace:: 2
+
+
+
+Zum Bleiben wie zum Wandern muß die :gesperrt:`Rasse`
+zunächst an Ort und Stelle verbessert werden. Man
+muß sie kriegsstark, arbeitsfroh und tugendhaft machen.
+Nachher auswandern\ |_--_|\ wenn es noch nötig ist.
+
+.. vspace:: 2
+
+Von einem vollständigen :gesperrt:`Auszug` der Juden kann
+wohl nirgends die Rede sein. Die sich assimilieren
+können oder wollen, bleiben zurück und werden resorbiert.
+
+.. class:: right small
+
+| (*II. Kongreßrede.*)
+
+.. vspace:: 2
+
+
+
+Vielmehr ist klar vorherzusehen, daß in jedem
+Lande der Wert und das Ansehen der Juden steigen
+würde, wenn ihre Zahl abnähme. Und wenn schließlich
+nur die Assimilierten zurückbleiben, wird man
+sie als die Rarität behandeln, die sie sind.
+
+.. class:: right small
+
+| (*M. C. Montefiores Ansichten.*)
+
+.. vspace:: 2
+
+
+
+Bei einer solchen :gesperrt:`Auswanderung` gibt es auch
+viele starke, tiefe Gemütsbewegungen. Es gibt alte
+Gewohnheiten, Erinnerungen, mit denen wir Menschen
+an den Orten haften. Wir haben Wiegen, wir
+haben Gräber, und man weiß, was dem jüdischen
+Herzen die Gräber sind. Die Wiegen nehmen wir
+mit\ |_--_|\ in ihnen schlummert rosig und lächelnd unsere
+Zukunft. Unsere teueren Gräber müssen wir
+[pg 25]
+zurücklassen\ |_--_|\ ich glaube, von denen werden wir habsüchtiges
+Volk uns am schwersten trennen. Aber es muß
+sein.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+
+.. toc-entry:: Die Wanderung
+
+:gesperrt:`DIE WANDERUNG`
+-------------------------
+
+
+Aus den fürchterlichen Pferchen im Osten Europas
+brechen seit zwanzig Jahren ununterbrochen Hunderttausende
+verzweifelter Menschen auf, um anderwärts
+ein Stück Brot und ein bißchen Freiheit zu suchen.
+Welcher Mensch, der nicht ein versteinertes Herz in
+der Brust trägt, wird diese jammervolle :gesperrt:`Wanderung`
+aus dem Elend ohne Erschütterung mit ansehen
+können? Aber diese halbverhungerten und ganz
+verzweifelten Parias tragen nicht nur ihre eigene Not
+um den Erdkreis herum, sondern auch die der anderen.
+So fliehen sie vor dem Haß und erzeugen ihn
+überall, wo sie erscheinen. Kraft ihrer größeren Armut
+reißen sie den bisher Aermsten das Brot vom
+Munde weg.
+
+.. class:: right small
+
+| (*Der ewige Jude.*)
+
+.. vspace:: 2
+
+
+Ich weiß es nicht, ob wir noch in dieser Generation
+die :gesperrt:`Befreiung` aus Schimpf und Elend erleben
+werden. Möglich ist es, vorausgesetzt, daß wir
+klug und entschlossen sind. Aber das weiß ich, daß
+schon das Wandern auf diesem Wege uns zu anderen
+Menschen machen wird. Wir gewinnen unsere verlorene
+innerliche Einheit wieder und mit dieser ein
+bißchen Charakter, und zwar unseren eigenen
+[pg 26]
+Charakter. Keinen marranischen, erborgten, unwahren,
+sondern unseren eigenen. Und dann erst wollen wir
+mit allen anderen rechtschaffenen Menschen wetteifern
+in Gerechtigkeit, Nächstenliebe und hohen
+Freisinn, wollen uns auf allen Feldern der Ehre
+betätigen, in Kunst und Wissenschaft es vorwärts zu
+bringen trachten, damit ein Glanz von unseren Taten
+auf die Aermsten unseres Volkes zurückfalle.
+
+.. class:: right small
+
+| (*Rede in der Österr. Union.*)
+
+.. vspace:: 2
+
+
+Dazu muß vor allem in den Seelen tabula rasa gemacht
+werden von mancherlei alten, überholten, verworrenen,
+beschränkten Vorstellungen. So werden
+dumpfe Gehirne zunächst meinen, daß die :gesperrt:`Wanderung`
+aus der Kultur hinaus in die Wüste gehen
+müsse. Nicht wahr! Die Wanderung vollzieht sich
+mitten in der Kultur. Man kehrt nicht auf eine niedrigere
+Stufe zurück, sondern ersteigt eine höhere.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+
+Als die Völker in den historischen Zeiten wanderten,
+ließen sie sich vom Weltzufall tragen, ziehen, schleudern.
+Wie Heuschreckenschwärme gingen sie in ihrem
+bewußtlosen Zuge irgendwo nieder. In den geschichtlichen
+Zeiten kannte man ja die Erde nicht. Die neue
+:gesperrt:`Judenwanderung` muß nach wissenschaftlichen
+Grundsätzen erfolgen.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+
+Die Wanderung ist zugleich eine aufsteigende Klassenbewegung.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+[pg 27]
+Wenn wir noch einmal :gesperrt:`aus` Mizraim :gesperrt:`wandern`,
+werden wir die Fleischtöpfe nicht vergessen.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+
+Aber die ersten, die gläubig, begeistert und tapfer hinübergehen,
+werden die besten Plätze haben.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+
+Diese, die zögernden späten Nachzügler werden hüben und drüben am
+schlechtesten daran sein.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+
+.. toc-entry:: Kolonisation
+
+:gesperrt:`KOLONISATION`
+------------------------
+
+
+Um eine große Ansiedlung zu begründen, muß man
+eine Flagge und eine Idee haben. Die waren nicht
+vorhanden, darum konnte kein Erfolg kommen.
+
+.. class:: right small
+
+| (*Herzl vor der Londoner Fremdenkommission.*)
+
+.. vspace:: 2
+
+
+Aber selbst die :gesperrt:`Kolonisierungsversuche`
+wirklich wohlmeinender Männer haben sich bisher
+nicht bewährt, obwohl es interessante Versuche waren.
+Ich glaube nicht, daß es sich dem oder jenem nur um
+einen Sport gehandelt habe; daß der oder jener arme
+Juden wandern ließ, wie man Pferde rennen läßt.
+Dazu ist die Sache denn doch zu ernst und traurig.
+Interessant waren diese Versuche insofern, als sie im
+kleinen die praktischen Vorläufer der Judenstaats-Idee
+vorstellten.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+[pg 28]
+Das heilige Land ist eine Wüste. Aber es gibt Oasen!
+Die Oasen sind unsere jüdischen Kolonien.
+
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+
+Um die Juden aufs :gesperrt:`Land` zu ziehen, mußten sie
+ihnen ein Märchen der Goldgewinnung erzählen.
+Phantastisch konnte es so lauten: Wer ackert, sät und
+erntet, findet in der Garbe Gold. Ist ja auch beinahe
+wahr. Nur wissen die Juden, daß es ein kleines
+Klümpchen sein wird. So konnten sie ihnen vernunftmäßiger
+sagen: wer am besten wirtschaftet, bekommt
+eine Prämie, die sehr hoch sein kann.
+
+.. vspace:: 2
+
+Vielleicht denkt jemand, es werde eine Schwierigkeit
+sein, daß wir keine gemeinsame :gesperrt:`Sprache` mehr
+haben. Wir können doch nicht Hebräisch miteinander
+reden. Wer von uns weiß genug Hebräisch, um in
+dieser Sprache ein Bahnbillet zu verlangen?
+
+Die dem allgemeinen Verkehre am meisten nützende
+Sprache wird sich zwanglos als Hauptsprache einsetzen.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+
+Wie schnell oder wie langsam die von uns vorbereiteten
+Wirkungen eintreten werden, das können wir
+nicht bestimmen. Von uns hier hängt es nicht ab.
+Wir konnten nur die Anlage herstellen. Die Kraft
+können wir nicht liefern. Die Kraft muß vom jüdischen
+Volk geliefert werden\ |_--_|\ wenn es will.
+
+.. class:: right small
+
+| (*V. Kongreßrede.*)
+
+.. vspace:: 2
+
+[pg 29]
+Wir sehen es folglich nicht als unsere Aufgabe an,
+die Leute hinüberzuschaffen. Unsere Aufgabe ist es:
+drüben für sie bessere Bedingungen herzustellen.
+Dann kommt, wer will. Dann kommt, wer Arbeit und
+Sicherheit für das Erworbene sucht, wer etwas mehr
+Freiheit, Recht und Ehre genießen will, als er jetzt hat.
+
+.. class:: right small
+
+| (*Die Millionen der Ica.*)
+
+.. vspace:: 2
+
+
+Bei ihrer :gesperrt:`Ankunft` werden aber die Einwanderer
+von den Spitzen unserer Behörden feierlich empfangen
+werden. Ohne törichten Jubel, denn das Gelobte
+Land muß erst erobert werden. Aber schon
+sollen diese armen Menschen sehen, daß sie zu Hause
+sind.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+
+.. toc-entry:: Das gelobte Land
+
+:gesperrt:`DAS GELOBTE LAND`
+----------------------------
+
+
+Wir wollen aber den Juden eine :gesperrt:`Heimat` geben.
+Nicht indem wir sie gewaltsam aus ihrem Erdreich
+herausreißen. Nein, indem wir sie mit ihrem ganzen
+Wurzelwerk vorsichtig ausheben und in einen besseren
+Boden übersetzen.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+Die freie :gesperrt:`Heimat!` Wenn die Bewegung entsteht,
+werden wir die Einen nachziehen, die Anderen uns
+nachfließen lassen, die Dritten werden mitgerissen
+und die Vierten wird man uns nachdrängen.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+[pg 30]
+Das erste Ziel ist, wie schon gesagt, die völkerrechtlich
+gesicherte Souveränität auf einem für unsere gerechten
+Bedürfnisse ausreichenden Landstrich.
+
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+
+Noch vor einigen Jahren wurde die Goldgräberei
+auf eine wunderlich einfältige Weise betrieben. Wie
+abenteuerlich ist es in Kalifornien zugegangen? Da
+liefen auf ein Gerücht hin die Desperados aus aller
+Welt zusammen, stahlen die Erde, raubten einander
+das Gold ab\ |_--_|\ und verspielten es dann ebenso raubmäßig.
+Heute! Man sehe sich heute die Goldgräberei
+in Transvaal an. Keine romantischen Strolche mehr,
+sondern nüchterne Geologen und Ingenieure leiten die
+Goldindustrie. Sinnreiche Maschinen lösen das Gold
+aus dem erkannten Gestein. Dem Zufall ist wenig
+überlassen. So muß das neue Judenland mit allen
+modernen Hilfsmitteln :gesperrt:`erforscht` und in Besitz genommen
+werden.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+Wir sind bereit, die Bauzeit des Judentums herbeizuführen\
+|_--_|\ alles haben wir dazu in Hülle und Fülle;
+die Menschen, das Material, die Pläne. Wir brauchen
+nur noch\ |_--_|\ den Bauplatz.
+
+.. class:: right small
+
+| (*II. Kongreßrede.*)
+
+.. vspace:: 2
+
+
+Werden wir Häuser, Paläste, Arbeiterwohnungen, Schulen,
+Theater, Museen, Regierungsgebäude, Gefängnisse, Spitäler,
+Irrenhäuser\ |_--_|\ kurz Städte bauen und das neue Land so
+fruchtbar machen, daß es dadurch das Gelobte wird?
+
+.. class:: right small
+
+| (*Theodor Herzl und Baron Hirsch.*)
+
+.. vspace:: 2
+
+[pg 31]
+:gesperrt:`In dem alten Lande wünschen wir nur
+eine neue Blüte für den jüdischen Geist`.
+
+.. class:: right small
+
+| (*II. Kongreßrede.*)
+
+.. vspace:: 2
+
+Das :gesperrt:`Land unserer Väter` existiert also noch.
+Es ruht nicht auf dem Boden eines Meeres. Es gibt
+Leute, die dort leben und fröhlich arbeiten. Die alte
+Erde verjüngt sich dort unter den regsamen Händen.
+Sie trägt wieder Blumen, sie trägt wieder Früchte,
+sie wird vielleicht auch eines Tages, das Glück und
+die Ehre der Juden tragen.
+
+.. class:: right small
+
+| (*Rede im Makkabäerklub.*)
+
+.. vspace:: 2
+
+Da ist es, Juden! Kein Märchen, kein Betrug! Jeder
+kann sich davon überzeugen, denn jeder trägt ein
+Stück vom Gelobten Land hinüber: der in seinem
+Kopf, und der in seinen Armen, und jener in seinem
+erworbenen Gut. Wir werden endlich als freie Männer
+auf unserem eigenen Boden leben und friedlich
+in unserem eigenen Heim sterben.
+
+.. class:: right small
+
+| (*A Solution of the Jewish Question.*)
+
+.. vspace:: 2
+
+
+.. toc-entry:: Der Judenstaat
+
+:gesperrt:`DER JUDENSTAAT`
+--------------------------
+
+Der :gesperrt:`Judenstaat!` Welcher Wahnwitz! Oder
+soll man sagen: Dummheit? Oder ist es nicht noch
+eher der Spaß eines Humoristen, der einmal die Welt
+recht herzlich lachen machen möchte\ |_--_|\ auf Kosten
+seines eigenen unglücklichen Volkes?
+
+.. class:: right small
+
+| (*Rede im Makkabäerklub.*)
+
+.. vspace:: 2
+
+[pg 32]
+Der :gesperrt:`Judenstaat` ist ein Weltbedürfnis, folglich
+wird er entstehen.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+Dieses Land, das elende, und das Volk, das elende,
+zusammengeführt, werden einen Zustand ergeben,
+daß beiden geholfen ist.
+
+.. class:: right small
+
+| (*Rede in Wien.*)
+
+.. vspace:: 2
+
+Es wird auch im :gesperrt:`Judenstaat` Unglückliche,
+Kranke und Arme geben. Aber der Druck, der alle
+Leiden noch bitterer macht, wird aufhören, und kein
+Talent wird daran verderben, daß es jüdischen Ursprungs
+ist.
+
+.. class:: right small
+
+| (*Rede im Makkabäerklub.*)
+
+.. vspace:: 2
+
+:gesperrt:`Palästina` ist unsere unvergeßliche historische
+Heimat. Dieser Name allein wäre ein gewaltig ergreifender
+Sammelruf für unser Volk. Wenn Seine
+Majestät der Sultan uns Palästina gäbe, könnten wir
+uns dafür anheischig machen, die Finanzen der Türkei
+gänzlich zu regeln. Für Europa würden wir dort
+ein Stück des Walles gegen Asien bilden, wir würden
+den Vorpostendienst der Kultur gegen die Barbarei
+besorgen.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+Sie werden doch wissen, daß ich gegen die Infiltration
+in Palästina bin\ |_--_|\ wir würden dort nur neue
+massacrirbare Armenier ansiedeln.
+
+.. class:: right small
+
+| (*An Samuel Pineles; bei* |A. Friedemann|_)
+
+.. |A. Friedemann| replace:: *A. Friedemann.*
+.. _A. Friedemann: Friedemann_
+
+.. vspace:: 2
+
+Begreifen denn die jüdischen Gegner des Judenstaates
+nicht, daß wir schon durch das bloße Aussprechen
+[pg 33]
+dieser Forderung die Achtung der Welt erwerben?
+Wir haben mindestens so viel Recht, wie die anderen,
+ein Land als Körper unserer normalen Existenz zu
+verlangen. Wir haben dieses Recht erworben durch
+Leiden, die in der Geschichte des menschlichen Geschlechts
+beispiellos sind. Ein Strom von Blut hat
+unseren Gang durch die Jahrhunderte begleitet. Es
+waren sinnlose Qualen, wenn wir sie nicht in der
+Hoffnung auf den :gesperrt:`Judenstaat` aushielten. Werfen
+wir unser Judentum weg, wie ein zerfetztes altes
+Kleid, wenn wir nicht an den Judenstaat denken!
+
+.. class:: right small
+
+| (*Rede im Makkabäerklub.*)
+
+.. vspace:: 2
+
+
+Israel! Andere Völker waren auch von Mißgeschicken
+heimgesucht, aber es kommt ihnen immer
+wieder eine ungetrübte Zeit. Jedem Kriege folgt ein
+Frieden. Nur das verstreute Israel wird immer besiegt
+und kommt nach den Niederlagen nicht zur
+Ruhe. Die materielle Sicherheit ist aber die Grundlage
+der moralischen Gesundheit und darum wünschen
+wir mit aller Inbrunst, erstreben wir mit all
+unserer Kraft für unser Volk die materielle Sicherheit,
+die es nur auf seinen Boden finden kann. Und
+die moralische Gesundheit eines tatsächlich in der
+ganzen Welt verstreuten Volkselements ist von Wichtigkeit
+für die ganze Welt.
+
+.. class:: right small
+
+| (*Tagebuch 1898.*)
+
+.. vspace:: 2
+
+
+Da sieht sie ihr altes Land am Mittelmeer herrlich gelegen,
+mit kaltem, gemäßigtem und warmen Klima; ein Land, aller
+Kulturen fähig, mit langruhenden
+[pg 34]
+Bodenschätzen und doch für andere nichts wert, weil
+andere nicht die befruchtenden Menschenströme hinzuleiten
+vermögen, die dem Zionismus gehorchen.
+Und wenn wir nun nicht verzückt oder verlogen in
+die Wolken starren, sondern ruhigen Blickes nach
+jenem Punkte hindeuten, der wirklich die Erlösung
+bedeutet, so bedarf das keiner geheimen Auslegungskünste.
+Dort ist das :gesperrt:`Zion` der Armen, der Jungen
+und auch der Frommen.
+
+.. class:: right small
+
+| (*Dr. Güdemanns Nationaljudentum.*)
+
+.. vspace:: 2
+
+
+.. toc-entry:: Der Führer
+
+:gesperrt:`DER FÜHRER`
+-----------------------
+
+
+Wir haben einen Grundsatz bei unseren Weisen
+gefunden: Die Ehren gebe man dem, der sie nicht
+sucht!
+
+.. class:: right small
+
+| (|Altneuland|_)
+
+.. vspace:: 2
+
+
+Ruhm besteht nicht im Beifall der Menge, sondern im
+Urteil der Geschichte. Je größer ein Mensch ist,
+desto länger kann er darauf warten, daß man ihn
+versteht, sei es auch erst in fernen Tagen.
+
+
+.. class:: right small
+
+| (|AFriedemann|_ *a. O. S. 83.*)
+
+.. |AFriedemann| replace:: *A. Friedemann*
+.. _AFriedemann: Friedemann_
+
+.. vspace:: 2
+
+
+Der :gesperrt:`Einzelne`, der auch nur Miene machte, ein solches
+Riesenwerk zu :gesperrt:`unternehmen`, könnte ein Betrüger oder ein
+Wahnsinniger sein.
+
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+
+Ich meine nicht, daß es etwas Unrechtes sei, wenn man sich mit
+Geschäften abgibt. Nur ein
+[pg 35]
+Schriftsteller soll kein Geschäftsmann sein, und beim Diener einer
+Volksbewegung ist es etwas Unerträgliches.
+
+.. class:: right small
+
+| (*Rede in London.*)
+
+.. vspace:: 2
+
+
+Die ersten Männer, welche diese :gesperrt:`Bewegung` beginnen, werden
+schwerlich ihr ruhmvolles Ende sehen. Aber schon durch das Beginnen
+kommt ein hoher Stolz und das Glück der innerlichen Freiheit in ihr
+Dasein.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+
+In dem, was ich Ihnen (Baron Hirsch) sagen will, wird Ihnen manches
+einfach und manches phantastisch erscheinen. Mit Einfachem und
+Phantastischem führt man die Menschen.
+
+.. class:: right small
+
+| (*Theodor Herzl und Baron Hirsch.*)
+
+.. vspace:: 2
+
+
+Ja, nur das Phantastische ergreift die Menschen.
+Und wer damit nichts anzufangen weiß, der mag ein
+vortrefflicher, braver und nüchterner Mann sein und
+selbst ein Wohltäter im großen Stil. Führen wird
+er die Menschen nicht, und es wird keine Spur von
+ihm bleiben.
+
+.. class:: right small
+
+| (*Theodor Herzl und Baron Hirsch.*)
+
+.. vspace:: 2
+
+.. toc-entry:: Persönliches
+
+:gesperrt:`PERSÖNLICHES`
+------------------------
+
+
+Zum Zionisten hat mich nämlich\ |_--_|\ der Prozeß
+Dreyfuss gemacht.
+
+.. class:: right small
+
+| (*North American Review 1899 nach Thon.*)
+
+.. vspace:: 2
+
+[pg 36]
+Wie Kant aufschrieb: An Johann darf nicht mehr gedacht werden. Mein
+Johann ist die Judenfrage. Ich muß sie rufen und wegschicken können.
+
+.. _`Tagebuch vom 16.6.1895.`:
+
+.. class:: right small
+
+| *Tagebuch vom 16.6.1895.*
+| (*bei* |Kellner|_.) |nbs4|
+
+.. vspace:: 2
+
+.. class:: small
+
+(*Von der Abfassung des Judenstaates.*)
+
+Ich hatte dann eine sehr ernste Krisis durchzumachen;
+ich kann sie nur damit vergleichen, wenn
+man einen rotglühenden Körper in kaltes Wasser
+wirft. Freilich, wenn dieser Körper zufällig Eisen ist,
+wird er Stahl.
+
+.. class:: right small
+
+| (*Selbstbiographie.*)
+
+.. vspace:: 2
+
+.. class:: small
+
+(*Von der Veröffentlichung des Judenstaates.*)
+
+Da ich mich nicht umstimmen ließ, rieten sie mir,
+die Idee wenigstens in der unverbindlichen und unterhaltenden
+Form eines Romanes vorzubringen mit
+Liebesgeschichten, menschlichen Einzelschicksalen
+und einer Malerei künftiger Zustände im Judenlande.
+Das war ja auch mehr im Einklang mit meiner bisherigen
+Tätigkeit als Stückeschreiber und Feuilletonist.
+Wohl sah ich ein, daß dies ein gutes Propagandamittel
+für die Idee wäre und mir die Gefahr
+ersparte, mich bis auf die Knochen zu blamieren.
+Aber dann wäre keine Tat daraus geworden. Man
+hätte in den Salons und Eisenbahncoupés davon gesprochen,
+viele hätten über den launigen Einfall gelacht,
+und manche hätten vielleicht heimlich in das
+Buch hineingeweint. Was war damit erreicht? Noch
+ein Märchen in tausend und einer Nacht des Leidens.
+[pg 37]
+Nein, es sollte Tag und Tat werden. Aufrütteln mußten
+wir das jüdische Volk, statt es einzulullen. Und wirklich,
+es hat sich aufrütteln lassen.
+
+.. class:: right small
+
+| (*Der Zionismus.*)
+
+.. vspace:: 2
+
+
+Vor allem haben wir uns sozusagen Röcke ohne Taschen angezogen und
+haben es unmöglich gemacht, irgend einen Vorteil für uns zu haben.
+
+
+.. class:: right small
+
+| (*Rede in Wien.*)
+
+.. vspace:: 2
+
+
+Ich habe nicht das Majoritätsbedürfnis, ich brauche keine
+Majorität. Was ich brauche, ist nur, daß ich mit meiner eigenen
+Ueberzeugung im Reinen bin. Dann bin ich zufrieden, selbst wenn kein
+Hund von mir ein Stück Brot annimmt.
+
+.. class:: right small
+
+| (*Stenogramm der Sitzung des großen A. C. vom 11.IV.04.
+  Rede Herzls gegen die Charkower.*)
+
+.. vspace:: 2
+
+
+Ich bin stärker als Sie, (zu seinem Gegner) darum bin ich versöhnlich,
+weil ich weiß: wenn wir streiten werden, werde ich siegen.
+
+
+.. class:: right small
+
+| (*Stenographisches Protokoll, S. 477.*)
+
+.. vspace:: 2
+
+
+In einem solchen guten Moment, im Herbst 1898
+war es, daß ich in London meinen Brüdern im Eastend
+sagte, daß ich die Verwirklichung unserer Hoffnungen
+für nahe bevorstehend halte. Das hätte ich
+nicht sagen sollen. Man fiel über mich her wie über
+einen Charlatan. Das Urteil wird aber eine spätere
+Zeit sprechen, der alle Beweismittel vorliegen werden.
+
+.. class:: right small
+
+| (*Rede im Makkabäerklub.*)
+
+.. vspace:: 2
+
+[pg 38]
+Ich, der ich vielleicht ein Stück Kuchen zu essen habe, habe nicht das
+Recht, das Stück Brot, das Armen angeboten wird, abzuweisen, weil ich
+es nicht will, oder weil ich es nicht brauche.
+
+.. class:: right small
+
+| (*A. C. Sitzung 11. 4. 1904. Stenographisches Protokoll.*)
+
+.. vspace:: 2
+
+
+|dots| Daß ich an der Güte unseres Menschenmaterials
+nicht mehr zweifelte, als ich die Kraft des nationalen
+Erwachens in mir selbst erlebte. Zur Zeit, als
+Ihr\ |_--_|\ und mein\ |_--_|\ Freund seine tief aus dem Herzen
+kommenden Worte niederschrieb, war ich noch ein
+spöttischer Jude, der wahrscheinlich gelacht hätte,
+wenn ihm diese Aufzeichnung zu Gesicht gekommen
+wäre. Aber es ist in mir eine Wandlung vorgegangen,
+die ich das Glück und den Stolz meines Lebens empfinde.
+
+.. class:: right small
+
+| (*Brief an Gustav G. Cohen.*)
+
+.. vspace:: 2
+
+[pg 39]
+
+
+
+
+:kurges:`VOM GOLUS`
+===================
+
+[pg!40]
+
+.. clearpage::
+
+[pg 41]
+
+.. toc-entry:: Die Assimilation
+
+:gesperrt:`DIE ASSIMILATION`
+----------------------------
+
+
+Unter Assimilation verstehe ich wörtlich, was das
+Wort bedeutet: so ähnlich zu werden, daß man sich
+in nichts unterscheidet.
+
+.. class:: right small
+
+| (*Herzl vor der Londoner Fremdenkommission.*)
+
+.. vspace:: 2
+
+
+Die :gesperrt:`Assimilierung`, worunter ich nicht etwa
+nur Aeußerlichkeiten der Kleidung, gewisser Lebensgewohnheiten,
+Gebräuche und der Sprache, sondern
+ein Gleichwerden in Sinn und Art verstehe, die Assimilierung
+der Juden könnte überall nur durch die
+Mischehe erzielt werden.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+
+Nun würde allerdings die staatsbildende Bewegung,
+die ich vorschlage, den israelitischen Franzosen ebensowenig
+schaden, wie den „Assimilierten“ anderer
+Länder. Nützen würde sie ihnen im Gegenteile, nützen!
+Denn sie wären in ihrer „chromatischen Funktion“,
+um Darwins Wort zu gebrauchen, nicht mehr gestört.
+Sie könnten sich ruhig :gesperrt:`assimilieren`, weil
+der jetzige Antisemitismus für immer zum Stillstand
+gebracht wäre. Man würde es ihnen auch glauben,
+daß sie bis ins Innerste ihrer Seele assimiliert sind,
+wenn der neue Judenstaat mit seinen besseren Einrichtungen
+zur Wahrheit geworden ist, und sie dennoch
+bleiben, wo sie jetzt wohnen.
+
+[pg 42]
+Sie glaubten vornehmer auszusehen, wenn sie sich
+nicht als Juden zu erkennen gaben. Aber gerade dadurch
+zeigten sie die Gesinnung von Bedienten und
+Freigelassenen. Und sie konnten sich noch über die
+Geringschätzung wundern, die ihnen zu teil wurde,
+da sie doch wahrlich keine Selbstachtung an den Tag
+gelegt hatten. Nachgekrochen waren sie den anderen,
+und es ereilte sie dafür die gerechte Strafe: sie wurden
+abgelehnt.
+
+.. class:: right small
+
+| (|Altneuland|_)
+
+.. vspace:: 2
+
+
+|dots| Die Leere und Nutzlosigkeit der Bestrebungen
+„zur Abwehr des Antisemitismus“. Mit Deklamationen
+auf dem Papier oder in geschlossenen Zirkeln
+ist da nicht das mindeste getan. Es wirkt sogar komisch.
+Immerhin mögen\ |_--_|\ neben Strebern und Einfältigen\
+|_--_|\ auch sehr wackere Leute in solchen Hilfscomités sitzen.
+Sie gleichen den Hilfscomités nach
+und vor Ueberschwemmungen und richten auch ungefähr
+so viel aus.
+
+.. class:: right small
+
+| (*Nach* |Kellner|_, *S. 137.*)
+
+.. vspace:: 2
+
+
+Solange sie scheu und unaufrichtig von Partei zu
+Partei, von Nation zu Nation taumeln werden, nur
+um für das ein wenig Schutz zu erlangen, was sie
+für uneingestehbar halten, nämlich für ihr Judentum\
+|_--_|\ so lange wird man sie nicht achten noch lieben,
+nicht einmal dulden. Wer sich für anderes ausgibt,
+als er offenbar ist, erregt Mißtrauen, und dieses
+dumpfe Gefühl setzt sich herabsteigend bei den
+Pöbelmassen in Gewalttaten um.
+
+.. class:: right small
+
+| (*Die entschwundenen Zeiten.*)
+
+.. vspace:: 2
+
+[pg 43]
+An den Siegesfeiern dürfen sie nicht als Vollberechtigte teilnehmen,
+und die Niederlagen läßt man an ihnen aus, so hüben wie drüben. Sie
+sind, wie es auch ausgehe, die Geschlagenen.
+
+.. class:: right small
+
+| (*Die entschwundenen Zeiten.*)
+
+.. vspace:: 2
+
+
+.. toc-entry:: Mauschel
+
+:gesperrt:`MAUSCHEL`
+--------------------
+
+:gesperrt:`Mauschel` ist der Fluch des Juden.
+
+.. class:: right small
+
+| (*Mauschel.*)
+
+.. vspace:: 2
+
+
+Diese Leute, von denen man fortwährend hört, bald
+durch den Skandal ihrer Maitressen, bald durch den
+Triumph ihrer Rennpferde, bald durch die Börsenmanöver,
+mit denen sie den Mittelstand der Börse
+zu Proletariern machen, bald durch die Korruption,
+die sie um sich her wie einen Pesthauch verbreiten;
+diese Leute, die man überall sieht, nur nicht, wo die
+armen Juden in einem schweren Kampfe stehen, diese
+Leute mögen sich in acht nehmen, daß nicht in ihrem
+Rücken eine zweite Volksbewegung gegen sie aufstehe,
+numerisch schwächer, aber gerade darum verzweifelter
+als die erste. Ah ja, es gibt sogenannte „\ :gesperrt:`Wohltäter`\“
+unter ihnen; das heißt, sie züchten Schnorrer.
+Das heißt, sie schaden dem jüdischen Volke auch noch
+durch milde Gaben aus denjenigen Vermögen, die
+mitunter auf kompromittierende Art entstanden sind.
+Ah ja, die Herren sind auch geschickt genug, sich
+persönlich vom Antisemitismus loszukaufen: durch
+Gefälligkeiten, Geld und Opfer an Ueberzeugung\ |_--_|\
+die letzteren kosten sie am wenigsten.
+
+.. class:: right small
+
+| (*Dr. Güdemanns Nationaljudentum.*)
+
+.. vspace:: 2
+
+[pg 44]
+Es sind die Leute, die im sicheren Boot sitzen und
+den Ertrinkenden, die sich an den Bootrand klammern
+möchten, mit dem Ruder auf die Köpfe schlagen.
+
+.. class:: right small
+
+| (*Protestrabbiner.*)
+
+.. vspace:: 2
+
+
+Es wird immer zu den großen Merkwürdigkeiten gehören, daß die Herren
+gleichzeitig um Zion beten und gegen Zion auftreten.
+
+.. class:: right small
+
+| (*II. Kongreßrede.*)
+
+.. vspace:: 2
+
+
+Für den schlimmsten Fall richtet :gesperrt:`Mauschel`
+seinen Blick ins Weite, aber nicht nach Zion, sondern
+nach irgend einem Lande, wo er allenfalls bei
+einer anderen Nation unterschlüpfen könnte. Dort angelangt,
+spielt er nach kurzer Zeit auf den Chauvinisten
+hinaus, erteilt Unterricht im neuen Patriotismus
+und verdächtigt alle, die nicht sind wie er. Dabei
+begeht er die wunderliche Inkonsequenz, sich von den
+Juden loszusagen und zugleich in ihrem Namen zu
+sprechen.
+
+.. class:: right small
+
+| (*Mauschel.*)
+
+.. vspace:: 2
+
+
+Den sehnsüchtigen Ruf: „Uebers Jahr in Jerusalem!“
+hatte eine Generation der anderen übergeben,
+und nur in den letzten Jahrzehnten des nationalen
+Verkommens war bei manchen Rabbinern die wäßrige
+Deutung üblich geworden, das Jerusalem dieses
+Spruches solle eigentlich heißen London, Berlin oder
+Chicago. Wenn man die jüdischen Ueberlieferungen
+in dieser Weise auslegt, dann bleibt freilich vom
+Judentum nicht mehr viel anderes übrig als das
+Jahresgehalt, das diese Herren beziehen.
+
+.. class:: right small
+
+| (*Der Zionismus.*)
+
+.. vspace:: 2
+
+[pg 45]
+Die jüdische „\ :gesperrt:`Mission`\“ ist etwas Sattes,
+Behagliches, Gutsituiertes. Seit Jahr und Tag sehe ich mir die Leute
+an, die mir diese „Mission“ zur Antwort geben, wenn ich von der
+wachsenden Not unserer Armen rede. Diese Missionäre befinden sich alle
+vortrefflich.
+
+
+.. class:: right small
+
+| (*Dr. Güdemanns Nationaljudentum.*)
+
+.. vspace:: 2
+
+
+Damit sie fürder nicht mit den guten Rabbinern verwechselt werden,
+wollen wir die Angestellten der Synagoge, die sich gegen die Erlösung
+ihres Volkes verwahren, die Protestrabbiner nennen.
+
+
+.. class:: right small
+
+| (*Leitartikel der Welt 10.7.1897.*)
+
+.. vspace:: 2
+
+
+Er ist der Rabbiner des nächsten Vorteils.
+
+.. class:: right small
+
+| (|Altneuland|_)
+
+.. vspace:: 2
+
+
+.. toc-entry:: Der Kampf gegen den Zionismus
+
+:gesperrt:`DER KAMPF GEGEN DEN ZIONISMUS`
+-----------------------------------------
+
+
+Aber dem Judentum angehören, das Judentum sozusagen
+berufsmäßig ausüben und es gleichzeitig bekämpfen,
+das ist etwas, wogegen sich jedes rechtliche
+Gefühl auflehnen muß.
+
+.. class:: right small
+
+| (*Protestrabbiner.*)
+
+.. vspace:: 2
+
+
+Die Sache wird dennoch vielleicht nicht den kostbaren
+Beifall der jüdischen Geldagenten finden. Diese
+werden sogar vielleicht durch ihre geheimen Knechte
+und Agenten den Kampf gegen unsere Jugendbewegung
+einzuleiten versuchen. Einen solchen Kampf
+werden wir, wie jeden anderen, der uns aufgezwungen
+wird, mit schonungsloser Härte führen.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+[pg 46]
+Wenn nun alle oder einige französische Juden gegen diesen Entwurf
+protestieren, weil sie sich bereits „\ :gesperrt:`assimiliert`\“
+hätten, so ist meine Antwort einfach: Die ganze Sache geht Sie nichts
+an. Sie sind israelitische Franzosen, vortrefflich!
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+
+Man kann sich als Abkömmling des jüdischen
+Stammes von unserer Bewegung fernhalten; aber wir
+glauben nicht, daß sich einer den Beifall oder die
+Achtung der Nichtjuden erwerben kann, der als Jude
+die Zionisten mit Kot bewirft. Wer auf diese Art
+beweisen will, was er für ein echter Marrane ist,
+dessen schmähliche Liebedienerei ist umsonst.
+
+.. class:: right small
+
+| (*Ergebnisse des Kongresses.*)
+
+.. vspace:: 2
+
+
+Hätte ich mich mit den chinesischen Angelegenheiten
+befaßt, so würden mich die Chinesen angegriffen
+haben. Allerdings bin ich zu jüdischen Sachen
+etwas besser legitimiert. Aber danach wird bekanntlich
+nicht gefragt. Wenn ich nun also auch die
+Angriffe begreife, so habe ich doch Ursache, mich
+über ihre Heftigkeit und Ungerechtigkeit zu wundern,
+und ich habe das Bedürfnis, mich darüber bei meinesgleichen
+zu beschweren.
+
+.. class:: right small
+
+| (*Rede im Makkabäerklub.*)
+
+.. vspace:: 2
+
+
+Es ist wahr, diese internationalen Finanziers sind reich genug, _`das
+Werk zu fördern`; sie sind nicht reich genug, es zu
+verhindern. Wenn sie alles kaufen können, das Stück Blech, aus dem die
+Feder eines
+[pg 47]
+unabhängigen Schriftstellers gemacht ist, können sie
+nicht kaufen.
+
+.. class:: right small
+
+| (*Der ewige Jude.*)
+
+.. vspace:: 2
+
+
+Ich glaube, wenn ich mich in den Gedankenkreis
+eines Herrn vom Finanzgeschäft versetze, so stellt er
+sich unter einer Aktie der jüdischen Kolonialbank
+etwas vor, was die Mitte hält zwischen einer Mitgliedskarte
+eines Vereines gegen Verarmung und Bettelei
+und einer Goldminenaktie auf dem Saturn.
+
+.. class:: right small
+
+| (*Rede in Wien.*)
+
+.. vspace:: 2
+
+
+Es ist unerhört und in fünfzig Jahren wird man
+diesen Leuten auf das Grab spucken, wenn man es
+erfahren wird, daß ich mit Abdul Hamid nahezu
+fertig war und nur die lumpigen Gelder nicht bekommen
+konnte. Natürlich dürfen wir heute unserem
+Zorn und Schmerz nicht Luft machen, denn dann
+erführe auch\ |nbs| |dots| unsere innere Schwäche und ich
+muß mich bemühen ihn hinzuhalten, Zeit zu gewinnen,
+Wasser aus den Felsen zu schlagen und Gold
+aus dem Kot zu kratzen.
+
+.. class:: right small
+
+| (*An Dr. Mandelstamm.*)
+
+.. vspace:: 2
+
+
+.. toc-entry:: Wohltätigkeit
+
+:gesperrt:`WOHLTÄTIGKEIT`
+-------------------------
+
+
+Zunächst ist da das Prinzip der :gesperrt:`Wohltätigkeit`,
+das ich für durchaus falsch halte. Sie züchten
+Schnorrer. Charakteristisch ist, daß bei keinem Volke
+so viel Wohltätigkeit und so viel Bettel vorkommt
+wie bei den Juden. Es drängt sich einem auf, daß
+zwischen beiden Erscheinungen ein Zusammenhang
+[pg 48]
+sein müsse. So daß durch die Wohltätigkeit der
+Volkscharakter verlumpt.
+
+.. class:: right small
+
+| (*Theodor Herzl und Baron Hirsch.*)
+
+.. vspace:: 2
+
+
+Es ist ein heimlicher Jammer der Assimilierten,
+der sich in „wohltätigen“ Unternehmungen Luft
+macht. Sie gründen Auswanderungsvereine für zureisende
+Juden. Diese Erscheinung enthält einen
+Gegensinn, den man komisch finden könnte, wenn
+es sich nicht um leidende Menschen handelte. Einzelne
+dieser Unterstützungsvereine sind nicht für,
+sondern gegen die verfolgten Juden da. Die Aermsten
+sollen nur recht schnell, recht weit weggeschafft werden.
+Und so entdeckte man bei aufmerksamer Trachtung,
+daß mancher scheinbare Judenfreund nur ein
+als :gesperrt:`Wohltäter` verkleideter Antisemit jüdischen
+Ursprungs ist.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+
+Unsere jetzige verworrene Privat\ :gesperrt:`wohltätigkeit`
+stiftet im Verhältnis zum gemachten Aufwand
+wenig Gutes.
+
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+
+Wir hatten unter unseren Argumenten für den
+Zionismus bisher ein sehr starkes in dem Bankbruche
+der Assimilation. Wir haben da ein neues bekommen:
+die Insolvenz der Wohltäter. Welche Insolvenz! Ja,
+wenn die reichen Leute die Zahlungen einstellen, dann
+geht viel verloren.
+
+.. class:: right small
+
+| (*II. Kongreßrede.*)
+
+.. vspace:: 2
+
+
+Ich sagte, daß das System der jüdischen Wohltätigkeit
+bankerott ist.
+
+.. class:: right small
+
+| (*Herzl vor der Londoner Fremdenkommission.*)
+
+.. vspace:: 2
+
+[pg 49]
+:gesperrt:`Wohltätigkeit` an einem ganzen Volke ausgeübt, heißt
+Politik, und die Wohltätigkeit, die ein Volk zu seinem eigenen
+Gedeihen auszuüben versucht, ist die Politik dieses Volkes. Es gibt
+keine Politik, die nicht von Absichten der Wohlfahrt durchdrungen ist.
+
+.. class:: right small
+
+| (*Rede in Berlin.*)
+
+.. vspace:: 2
+
+
+Einem Volke kann man nicht :gesperrt:`philanthropisch` helfen, sondern
+einzig und allein politisch.
+
+
+.. class:: right small
+
+| (*Rede im Makkabäerklub.*)
+
+.. vspace:: 2
+
+
+Argentinien ist eine Art Königsgrab für Hirsch.
+
+.. class:: right small
+
+| (*Rede in Berlin.*)
+
+.. vspace:: 2
+
+
+.. toc-entry:: Das Leben im Golus
+
+:gesperrt:`DAS LEBEN IM GOLUS`
+------------------------------
+
+
+Heute ist das jüdische Proletariat nicht nur das
+ärmste und unglücklichste, sondern auch das unruhigste
+und das am meisten beunruhigende.
+
+.. class:: right small
+
+| (*V. Kongreßrede.*)
+
+.. vspace:: 2
+
+
+Die causa remota ist der im Mittelalter eingetretene
+Verlust unserer :gesperrt:`Assimilierbarkeit`, die causa
+proxima unserer Ueberproduktion an mittleren Intelligenzen,
+die keinen Abfluß nach unten haben und
+keinen Aufstieg nach oben\ |_--_|\ nämlich keinen gesunden
+Abfluß und keinen gesunden Aufstieg. Wir
+werden nach unten hin zu Umstürzlern proletarisiert,
+bilden die Unteroffiziere aller revolutionären Parteien
+und gleichzeitig wächst auch nach oben unsere furchtbare
+Geldmacht.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+[pg 50]
+Das ist wohl der ergreifendste Zug in unserer Volkstragik, daß das
+hochkonservative Volk der Juden immer den :gesperrt:`revolutionären`
+Bewegungen zugejagt wird.
+
+
+.. class:: right small
+
+| (*Der Basler Kongreß.*)
+
+.. vspace:: 2
+
+
+Sind wir aber in der Börse, so wird das wieder
+zur neuen Quelle unserer Verächtlichkeit. Dabei produzieren
+wir rastlos mittlere Intelligenzen, die keinen
+Abfluß haben und dadurch eine ebensolche Gesellschaftsgefahr
+sind, wie die wachsenden Vermögen.
+Die gebildeten und besitzlosen Juden fallen jetzt alle
+dem Sozialismus zu. Die soziale Schlacht müßte also
+jedenfalls auf unserem Rücken geschlagen werden,
+weil wir im kapitalistischen wie im sozialistischen
+Lager auf den exponiertesten Punkten stehen.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+
+Diese Unruhen richten einen schweren Schaden an
+in der mißhandelten Seele unseres Volkes. Sie untergraben
+immer wieder das Rechts- und Ehrgefühl, sie
+machen die Betroffenen zu Feinden einer stiefmütterlichen
+Gesellschaft, in der solches geschehen kann.
+Wundern wir uns nicht, wenn die Proletarier unter
+den Proletariern, von allen Menschen die Verzweifeltesten,
+bei allen äußersten Umsturzparteien zu finden
+sind.
+
+.. class:: right small
+
+| (*II. Kongreßrede.*)
+
+.. vspace:: 2
+
+
+Ueber kein Volk sind so viele Irrtümer verbreitet, wie über die
+Juden. Und wir sind durch unsere geschichtlichen Leiden so gedrückt
+und mutlos geworden,
+[pg 51]
+daß wir diese Irrtümer selbst nachsprechen und
+nachglauben. Eine der falschen Behauptungen ist die
+unmäßige Handelslust der Juden. Nun ist es bekannt,
+daß wir dort, wo wir aufsteigende Klassenbewegung
+mitmachen können, uns eilig vom Handel entfernen.
+Weitaus die meisten jüdischen Kaufleute lassen ihre
+Söhne studieren. Daher kommt ja die sogenannte Verjudung
+aller gebildeten Berufe. Aber auch in den
+wirtschaftlich schwächeren Schichten ist unsere Handelslust
+keineswegs so groß, wie angenommen wird.
+In den östlichen Ländern Europas gibt es große
+Massen von Juden, die keine Handeltreibende sind
+und vor schweren Arbeiten nicht zurückschrecken.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+
+Die Juden haben infolge der langen bürgerlichen Ehrlosigkeit eine oft
+krankhafte Sucht nach Ehre, und ein jüdischer Offizier ist in dieser
+Beziehung ein potenzierter Jude.
+
+.. class:: right small
+
+| (*Der Zionismus.*)
+
+.. vspace:: 2
+
+
+Das römische :gesperrt:`Ghetto`! Mit welchem hämischen
+und niedrigen Haß man sie verfolgte, die armen
+Leute, deren großes Verbrechen die Glaubenstreue
+gewesen. Wir haben es jetzt viel weiter gebracht: man
+macht dem Juden nur mehr die krumme Nase zum
+Vorwurf, sowie das Geld, auch wenn sie keines haben.
+
+.. class:: right small
+
+| (|Buch der Narrheit|_)
+
+.. vspace:: 2
+
+
+Nur die sichtbaren Ghettomauern sind gefallen.
+
+.. class:: right small
+
+| (|Das neue Ghetto|_)
+
+.. vspace:: 2
+
+[pg 52]
+Das :gesperrt:`Ghetto` existiert noch überall, wie unsichtbar
+auch seine Mauern seien. Das Ghetto besteht im Mißtrauen
+der Gentiles, im Zusammenhocken der Juden
+und in der Scheu, die Zusammengehörigkeit einzugestehen.
+Einer der vielen wunderlichen Widersprüche
+unseres Volkslebens ist: daß wir weit auseinandergestreut
+und doch auf allen einzelnen Punkten
+unbehaglich zusammengepreßt sind.
+
+.. class:: right small
+
+| (*Der ewige Jude.*)
+
+.. vspace:: 2
+
+
+.. toc-entry:: Judennot
+
+:gesperrt:`JUDENNOT`
+--------------------
+
+
+Auf die treibende Kraft kommt es an. Und was ist
+diese Kraft? Die :gesperrt:`Judennot`.
+
+Wir haben ohne Gewinsel die :gesperrt:`Judennot` vor aller
+Welt ausgebreitet und zugleich den Vorschlag gemacht,
+im allgemeinen Interesse eine Abhilfe aus
+unserer eigenen Kraft heraus zu schaffen. Sind wir
+in unserer Narretei sehr verbohrt, wenn wir annehmen,
+daß eine Sprache von solcher Offenheit die Teilnahme
+aller anständigen Menschen erregen muß?
+
+.. class:: right small
+
+| (*Ergebnisse des Kongresses.*)
+
+.. vspace:: 2
+
+
+Leben wollen diese Aermsten, und sie wollen ihre
+verhärmten Weiber, ihre kranken, schwachen Kinder
+nicht Hungers verenden lassen. Wer wagt es, einen
+Stein auf sie zu werfen, wenn sie im Hausier- und
+Wirtshandel nicht die moralischen Eleganzen eines
+tadellosen Gentleman haben? Wenn sie sich gegen
+das Gesetz vergehen, nimmt es sie schon gehörig beim
+[pg 53]
+Kragen. Und die moralischen Eleganzen, wer hat sie
+denn? Etwa die hochmütigen Emporkömmlinge, die
+von diesen galizischen Unglücksfällen als von etwas
+Fernem, außerhalb ihrer Sphäre Spielendem kühl
+reden und die sich zu einer großen solidarischen
+Hilfsaktion für die leiblich und sittlich Verkommenen
+ihres Stammes nicht verpflichtet halten?
+
+.. class:: right small
+
+| (*Feuer in Galizien.*)
+
+.. vspace:: 2
+
+
+Das Judentum ist eine Massenherberge des Elends mit Filialen in der
+ganzen Welt.
+
+.. class:: right small
+
+| (*III. Kongreßrede.*)
+
+.. vspace:: 2
+
+
+Es gibt heutzutage vielleicht in der ganzen weiten Welt keine
+verzweifelteren Menschen als die armen galizischen Juden.
+
+
+.. class:: right small
+
+| (*Feuer in Galizien.*)
+
+.. vspace:: 2
+
+
+Sie alle kennen den schauerlichen Anlaß, diese rumänische
+Judenwanderung, die wie eine Blutspur
+durch Europa gezogen ist. Wo war da das bisherige
+offizielle Judentum, wo waren die protokollierten
+Großen Israels, die Stützen der Gemeinschaft? An
+ihren Früchten sollt ihr sie erkennen. Ein paar tausend
+Flüchtlinge wurden mit Ach und Weh weitergeschoben\
+|_--_|\ und dann erklärt man sich unfähig,
+noch etwas zu tun. Die Nachfolgenden wurden zu
+Hunderten unter Anwendung von Waffengewalt zusammengestoßen
+und in Extrazügen wieder an die
+Grenze zurückgeworfen, der sie unter Weherufen entkommen
+waren. Diese Extrazüge waren die letzte Anstrengung
+der Barmherzigkeit.
+
+.. class:: right small
+
+| (*IV. Kongreßrede.*)
+
+.. vspace:: 2
+
+[pg 54]
+Seit den Zeiten des Altertums gibt es kein Beispiel von Heloten, aber
+die Juden in Rußland sind tatsächlich Heloten oder Parias.
+
+.. class:: right small
+
+| (*Herzl vor der Londoner Fremdenkommission.*)
+
+.. vspace:: 2
+
+
+Ist es zu verwundern, wenn das namenlose Elend
+sie auf Abwege bringt? Manche Erscheinung in diesen
+gequälten Massen spricht erschütternd zu uns. Man
+hat unter anderem beobachtet, daß galizische Jüdinnen
+in den letzten Jahren auffallend zahlreich
+der Prostitution zufallen. Sie kommen als Ware nach
+allen Weltgegenden in den schrecklichsten Handel.
+Bedenkt man die alte Reinheit des jüdischen Familienlebens,
+so schnürt einem eine solche Tatsache das
+Herz zu.
+
+.. class:: right small
+
+| (*Feuer in Galizien.*)
+
+.. vspace:: 2
+
+
+Ich glaube der Druck des Antisemitismus ist überall vorhanden. In den
+wirtschaftlich obersten Schichten der Juden bewirkt er ein
+Unbehagen. In den mittleren Schichten ist es eine dumpfe
+Beklommenheit. In den unteren ist es die nackte Verzweiflung.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+
+Im mittelalterlichen Deutsch bedeutete das Wort „Elend“ sowohl Misere
+als auch Exil, und seit jeher waren die Ausdrücke für die Judenheit
+gleichbedeutend.
+
+.. class:: right small
+
+| (*Herzl vor der Londoner Fremdenkommission.*)
+
+.. vspace:: 2
+
+[pg 55]
+
+
+.. toc-entry:: Der Untergang der Westjuden
+
+:gesperrt:`DER UNTERGANG DER WESTJUDEN`
+---------------------------------------
+
+
+In der Judengasse waren sie ehrlos, wehrlos, rechtlos,
+und als sie die Gasse verließen, hörten sie auf
+Juden zu sein. Beides mußte da sein: Freiheit und
+Gemeingefühl.
+
+.. class:: right small
+
+| (|Altneuland|_)
+
+.. vspace:: 2
+
+
+Wer :gesperrt:`untergehen` kann, will und muß, der soll
+untergehen. Die Volkspersönlichkeit der Juden kann,
+will und muß aber nicht untergehen. Sie kann nicht,
+weil äußere Feinde sie zusammenhalten. Sie will
+nicht, das hat sie in zwei Jahrtausenden unter ungeheuren
+Leiden bewiesen.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+
+Ich sprach schon von unserer :gesperrt:`„Assimilierung“`.
+Ich sage keinen Augenblick, daß ich sie
+wünsche. Unsere Volkspersönlichkeit ist geschichtlich
+zu berühmt und trotz aller Erniedrigungen zu hoch,
+als daß ihr Untergang zu wünschen wäre. Aber vielleicht
+könnten wir überall in den uns umgebenden
+Völkern spurlos aufgehen, wenn man uns nur zwei
+Generationen hindurch in Ruhe ließe.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+
+Die Abtrünnigen entkamen dennoch nicht, und es
+erging ihnen wie den Flüchtigen aus einer verseuchten
+Gegend. Sie waren verdächtig und blieben gleichsam
+in der Quarantaine liegen. Marranen hießen im Mittelalter
+die getauften Israeliten in Spanien. Das Marranentum
+war die Quarantaine der entflohenen Juden.
+
+.. class:: right small
+
+| (|Altneuland|_)
+
+.. vspace:: 2
+
+[pg 56]
+Ganze Aeste des Judentums können absterben,
+abfallen; der Baum lebt.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+
+.. toc-entry:: Judenfrage
+
+:gesperrt:`JUDENFRAGE`
+----------------------
+
+
+Die :gesperrt:`Judenfrage` besteht. Es wäre töricht sie zu
+leugnen. Sie ist ein verschlepptes Stück Mittelalter,
+mit dem die Kulturvölker auch heute beim besten
+Willen noch nicht fertig werden konnten.
+
+Die :gesperrt:`Judenfrage` besteht überall, wo Juden in
+merklicher Anzahl leben. Wo sie nicht ist, da wird
+sie durch hinwandernde Juden eingeschleppt. Wir
+ziehen natürlich dahin, wo man uns nicht verfolgt;
+durch unser Erscheinen entsteht dann die Verfolgung.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+
+Die :gesperrt:`Judenfrage` hat zwei Aspekte, einen geschichtlichen
+und einen aktuellen. Der historische läßt
+sich mit kühler Ruhe betrachten, ja die akademische
+Gelassenheit ist dabei sehr verdienstlich. Aber die
+aktuelle Judenfrage verträgt diese kühle Art der Behandlung
+nicht. Hüben und drüben leidet und kämpft
+man, hüben ist mehr Leiden, drüben mehr Streiten.
+Kommt aber einer, der dieses Schauspiel mit ungetrübter
+Seelenruhe betrachten, man könnte sagen: genießen
+will, so wird er in beiden Lagern Zorn erregen.
+
+.. class:: right small
+
+| (*Leroy-Beaulieu über den Antisemitismus.*)
+
+.. vspace:: 2
+
+
+Sich taufen lassen ist die individuelle Lösung der Judenfrage.
+
+.. class:: right small
+
+| (|Das neue Ghetto|_)
+
+.. vspace:: 2
+
+[pg 57]
+Das ist die Frage, die vor uns liegt. Die Armen
+können nicht, und die Reichen wissen nicht.
+
+.. class:: right small
+
+| (*Die Frauen und der Zionismus.*)
+
+.. vspace:: 2
+
+
+Die Lösung der Judenfrage liegt in der Anerkennung der Juden als ein
+Volk, und darin, daß sie ein rechtlich anerkanntes Heim finden, wohin
+Juden aus denjenigen Teilen der Welt, in denen sie bedrückt sind,
+naturgemäß wandern.
+
+
+.. class:: right small
+
+| (*Herzl vor der Londoner Fremdenkommission.*)
+
+.. vspace:: 2
+
+
+Die territoriale Lösung der :gesperrt:`Judenfrage` bedeutet eine
+Erleichterung für Europa und die Erlösung für uns.
+
+.. class:: right small
+
+| (*Der ewige Jude.*)
+
+.. vspace:: 2
+
+
+Und unser Raisonnement ist das einfachste in der Welt: Wenn das
+Angebot an Juden sinkt, wird die Nachfrage nach Juden steigen. Man
+wird uns für mehr wert halten.
+
+
+.. class:: right small
+
+| (*Rede in London.*)
+
+.. vspace:: 2
+
+
+Ich halte die :gesperrt:`Judenfrage` weder für eine soziale,
+noch für eine religiöse, wenn sie sich auch noch
+so und anders färbt. Sie ist eine nationale Frage, und
+um sie zu lösen, müssen wir sie vor allem zu einer
+politischen Weltfrage machen, die im Rate der Kulturvölker
+zu regeln sein wird.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+
+.. toc-entry:: Der Judenhaß
+
+:gesperrt:`DER JUDENHASS`
+-------------------------
+
+
+Zwei Erscheinungen fesseln unsere Aufmerksamkeit
+durch die Folgen, von denen sie begleitet sind:
+die hohe Kultur und die tiefe Barbarei unserer Zeit.
+[pg 58]
+Ich habe diesem Satze absichtlich eine paradox zugespitzte
+Form gegeben. Unter hoher Kultur verstehe
+ich die wunderbaren Errungenschaften der Technik,
+mittel deren wir die Natur unseren Zwecken dienstbar
+machen; unter der tiefen Barbarei verstehe ich
+Antisemitismus.
+
+.. class:: right small
+
+| (*A Solution of the Jewish Question.*)
+
+.. vspace:: 2
+
+
+Die Völker, bei denen Juden wohnen, sind alle samt und sonders
+verschämt oder unverschämt Antisemiten.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+
+Die :gesperrt:`Verfolgungen` sind nicht mehr so bösartig wie im
+Mittelalter? Ja, aber unsere Empfindlichkeit ist gewachsen, so daß wir
+keine Verminderung der Leiden spüren. Die lange Verfolgung hat unsere
+Nerven überreizt.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+
+Das gewöhnliche Volk hat kein historisches Verständnis und kann keines
+haben. Es weiß nicht, daß die Sünden des Mittelalters jetzt an den
+europäischen Völkern heimkommen.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+
+Wir hören Tag für Tag die, wie es scheint, schwierige
+Frage erörtern, ob wir denn auch Menschen seien
+wie andere. Es gibt Leute, welche mit Entschiedenheit
+diese Frage verneinen, dann solche, die mit Einschränkungen
+bejahen; wenige sind ohne Vorbehalt
+für uns, und das ist menschlich erklärbar. Das „Liebe
+deinen Nächsten“ ist nichts Alltägliches\ |_--_|\ hätte es
+sonst ein derartiges Aufsehen in der Weltgeschichte
+erregt?
+
+.. class:: right small
+
+| (*Leroy-Beaulieu über den Antisemitismus.*)
+
+.. vspace:: 2
+
+[pg 59]
+Kischenew ist überall, wo Juden an Leib oder Seele gequält, an der
+Ehre gekränkt, am Vermögen geschädigt werden, weil sie Juden sind.
+
+.. class:: right small
+
+| (*VI. Kongreßrede.*)
+
+.. vspace:: 2
+
+
+Wie kann man sich vorstellen, daß die Leute, die uns als Nachbarn
+nicht dulden wollen, sich mit uns als Familienmitglieder verbinden
+würden?
+
+.. class:: right small
+
+| (*Herzl vor der Londoner Fremdenkommission.*)
+
+.. vspace:: 2
+
+
+Die Juden wollen erlöst werden von der Angst vor
+immer wiederkehrenden Verfolgungen. Denn selbst
+in den Ländern, wo unsere Brüder augenblicklich
+nicht zu leiden haben, ist ihre Freude eine zitternde.
+Ich habe dafür viele Beweise. Jeder Protest, der von
+solchen Gutsituierten gegen meinen Plan erhoben
+wird, ist ein Beweis. Sie meinen, mit Unrecht, daß
+ich die Duldung gefährde, die sie genießen, wenn
+ich vom Judenstaat spreche. Und beim ersten judenfeindlichen
+Ruf, den irgend ein Individuum ausstößt,
+fahren sie aus ihrer armseligen Ruhe auf und blicken
+scheu um sich: Fängt es schon an?
+
+.. class:: right small
+
+| (*Rede im Makkabäerklub.*)
+
+.. vspace:: 2
+
+
+Als ob die :gesperrt:`judenfeindliche` Bewegung dadurch irgendwie
+alteriert würde, daß ihr Schlagwort wissenschaftlich bemängelt werden
+kann. Das ist Gelehrtennaivität.
+
+.. class:: right small
+
+| (*Leroy-Beaulieu über den Antisemitismus.*)
+
+.. vspace:: 2
+
+[pg 60]
+Diese Kraft, die wir brauchen, wird uns vom Antisemitismus
+geliefert.
+
+.. class:: right small
+
+| (*A Solution of the Jewish Question.*)
+
+.. vspace:: 2
+
+
+Daß du ein anständiger Mensch bist, wird dir niemand glauben, weil du
+ein Jud' bist.
+
+.. class:: right small
+
+| (|Altneuland|_)
+
+.. vspace:: 2
+
+[pg 61]
+
+
+
+
+:kurges:`VON MENSCHEN UND MENSCHLICHEM`
+=======================================
+
+[pg!62]
+
+.. clearpage::
+
+[pg 63]
+
+
+.. toc-entry:: Die Menschheit
+
+:gesperrt:`DIE MENSCHHEIT`
+--------------------------
+
+
+Es ist vielleicht nicht die eleganteste Gesellschaft,
+wenn man mit Bettlern und Hungerleidern zusammen
+nach dem Ziele strebt. Aber ich spreche ja nicht von
+der Kanzel einer Synagoge, und so mag es mir gestattet
+sein, zu sagen, daß wir Zionisten nicht davor
+zurückschrecken, mit Bettlern und Hungerleidern zu
+gehen, wenn das Ziel die Gerechtigkeit ist. Vielleicht
+werden wir bei dieser Gelegenheit die Möglichkeit
+sozialer Verbesserungen entdecken und verwirklichen,
+die auch den Mühseligen und Beladenen anderer Völker
+zunutze kommen. Dann erst werden wir wahre
+Israeliten sein.
+
+.. class:: right small
+
+| (*Rede in London.*)
+
+.. vspace:: 2
+
+
+Ich glaube an das Aufsteigen der Menschen zu
+immer höheren Graden der Gesittung; nur halte ich
+es für ein verzweifelt langsames. Wollten wir warten,
+bis sich der Sinn auch der mittleren Menschen zur
+Milde abklärt, die Lessing hatte, als er Nathan den
+Weisen schrieb, so könnte darüber unser Leben und
+das unserer Söhne, Enkel und Urenkel vergehen.
+
+.. vspace:: 2
+
+Erfindungen und Entdeckungen haben die Menschen
+nicht dümmer gemacht und auch nicht
+schlechter. Man vervollkommnet die Schießgewehre,
+aber als man noch mit Streitaxt und Morgenstern zu
+Felde zog, hatte man ebensowenig die Absicht, dem
+[pg 64]
+Feinde das Leben zu verlängern oder es ihm süß zu
+machen.
+
+.. class:: right small
+
+| (|Buch der Narrheit|_)
+
+.. vspace:: 2
+
+
+Auch um das Eisen aus dem Schoße der Erde zu
+holen, ist Gold erfordert worden. Schien es nicht, als
+wäre das ein theoretischer Tausch? Eisen, etwas Wertloses,
+gewiß kein edles Metall! Aber der Mensch hat
+seine Arbeit und Gedanken dazu gegeben, und siehe,
+das schlechte Metall verwandelt seine Gestalt: es wird
+Schiene und schlingt sich als Band von Land zu Land,
+es wird Werkzeug und Maschine, Säule und Traverse,
+es schwingt sich als Brücke über den Strom und
+gleitet trotz seiner Schwere als Schiff über das duftende
+Meer nach neuen und alten Gestaden.
+
+.. class:: right small
+
+| (*Rede im Makkabäerklub.*)
+
+.. vspace:: 2
+
+
+Es wäre unsittlich, wenn wir einem Menschen, woher er auch komme,
+welchen Stammes oder Glaubens er auch sei, die Teilnahme an unseren
+Errungenschaften verwehren wollten. Denn wir stehen auf den Schultern
+anderer Kulturvölker.
+
+.. class:: right small
+
+| (|Altneuland|_)
+
+.. vspace:: 2
+
+\
+|_--_|\ Uns ist nichts Menschliches fremd. Auch wir wollen an der
+:gesperrt:`Besserung` der allgemeinen Zustände mitarbeiten, aber als
+Juden, nicht als unbestimmte Menschen, und was wir dann als Juden tun,
+das wird uns auch zur Ehre gereichen.
+
+.. class:: right small
+
+| (*Rede in der Österr. Union.*)
+
+.. vspace:: 2
+
+
+Eine große Helligkeit strömte von der Menorah aus. Die Augen der
+Kinder glänzten. Unserem Manne aber
+[pg 65]
+wurde das Ganze zu einem Gleichnis für die Entflammung
+der :gesperrt:`Nation`. Erst eine Kerze, da ist es
+noch dunkel, und das einsame Licht sieht noch traurig
+aus. Dann findet es einen Gefährten, noch einen,
+noch mehr. Die Finsternis muß weichen. Bei den
+Jungen und Armen leuchtet es zuerst auf, dann
+schließen sich die andern an, die das Recht, die Wahrheit,
+die Freiheit, den Fortschritt, die Menschlichkeit,
+die Schönheit lieben. Wenn alle Kerzen brennen,
+dann muß man staunen und sich freuen über das
+getane Werk. Und kein Amt ist beglückender als das
+eines Dieners am Licht.
+
+.. class:: right small
+
+| (*Die Menorah.*)
+
+.. vspace:: 2
+
+
+.. toc-entry:: Die Menschen
+
+:gesperrt:`DIE MENSCHEN`
+------------------------
+
+
+Ein Zustand, wo jeder tun könnte, was er will, ist
+schwerlich zu ersehnen. Wenn das vorübergehende
+Ich völlig sich ausleben dürfte, ginge das ewige Ich
+darüber zugrunde. Der Einzelne muß darum gebändigt
+werden. Die Freiheit als etwas Absolutes wünschen
+kann nur ein Schwärmer oder ein Tor. Der
+Einzelne, der sich inmitten der Gesellschaft schrankenlos
+ausleben will, ist immer ein Verbrecher. Die verschlafenen
+Juristen von der Universität sondern das
+gemeine Verbrechen vom politischen. Die Ketzerrichter
+urteilen klarer, wenn sie auch das politische
+ein gemeines nennen. Vom Staate aus gesehen verschwindet
+nämlich der Unterschied. Und wer den Einzelnen
+wie die Gesamtheit mit demselben gelassenen
+Blick anschaut, der findet, daß alle Verbrechen
+[pg 66]
+politische sind. Die Gesetze sind ja bloß die Form\ |_--_|\ die
+zeitweilige, besserungsfähige, aber deutliche\ |_--|, in
+welcher die große Persönlichkeit eines Volkes die Bedürfnisse
+und Bedingungen ihres Daseins ausspricht.
+
+.. class:: right small
+
+| (|Palais Bourbon|_)
+
+.. |Palais Bourbon| replace:: *Palais Bourbon.*
+
+.. vspace:: 2
+
+
+Die Menge ist bekanntlich großmütig und boshaft,
+intelligent und albern, tollkühn und feig\ |_--_|\ alles in
+demselben Augenblick\ |_--_|\ sie weicht einem Milchkarren
+vorsichtig aus und geht in die Bajonette hinein,
+sie lacht über einen Witz und versteht keinen
+Spaß, wird durch eine sentimental aufgedonnerte
+Phrase gerührt und jubelt einer Grausamkeit zu.
+
+.. class:: right small
+
+| (|Philosophische Erzählungen|_)
+
+.. vspace:: 2
+
+
+Die Menschen nähern sich einander nicht, wenn es keinen Notstand gibt,
+und vielleicht haben darin alle recht. Das Gemeingefühl, die
+Gemeinbürgschaft erwachen nur in den Katastrophen.
+
+.. class:: right small
+
+| (|Feuilletons|_)
+
+.. vspace:: 2
+
+
+Die Rechtlosigkeit des Einzelnen ist dem Kollektivismus
+und der unbeschränkten Monarchie gemeinsam.
+Nur läßt der Kollektivismus etwas Unkörperliches,
+Ungreifbares über dem Staate schweben, und
+darum wird er als etwas Dauerndes spät oder nie
+in Erfüllung gehen. Die Massen denken niemals in
+Ideen und immer in Personen. Es ist aber eine der
+reizendsten Antinomien, daß gerade die gestaltlosen
+Tyrannen verhaßt sind. Kommt einmal der unbestimmte
+Despot, so ist das Volk froh, ihn durch einen
+bestimmten zu ersetzen. Er müßte sonst sich selbst
+[pg 67]
+zürnen, sich selbst hassen, sich selbst den Untergang
+wünschen wegen der Härten, die vom Herrschen untrennbar
+sind. Die richtige naive Republik will einen
+Großherzog an der Spitze haben.
+
+.. class:: right small
+
+| (|Feuill|_)
+
+.. vspace:: 2
+
+
+Versammlungen werden wie andere nervöse Wesen durch die Farbe einer
+Stimme gereizt und beschwichtigt, aufgerührt und bezaubert.
+
+.. class:: right small
+
+| (|PB|_)
+
+.. vspace:: 2
+
+
+Das Moralische fängt erst später an: nämlich beim Bewußtsein! Beim
+Ueberwinden des Instinktiven.
+
+.. class:: right small
+
+| (|Das neue Ghetto|_)
+
+.. vspace:: 2
+
+
+.. toc-entry:: Allgemein Völkerpsychologisches
+
+:gesperrt:`ALLGEMEIN VÖLKERPSYCHOLOGISCHES`
+-------------------------------------------
+
+
+Wissen Sie, woraus das :gesperrt:`Deutsche Reich` entstanden
+ist? Aus Träumereien, Liedern, Phantasien
+und schwarz-rot-goldenen Bändern. Und in kurzer
+Zeit! Bismarck hat nur den Baum geschüttelt, den die
+Phantasten pflanzten.
+
+.. class:: right small
+
+| (*Theodor Herzl und Baron Hirsch.*)
+
+.. vspace:: 2
+
+
+Die :gesperrt:`Schweiz` kann einen nervös machen! Dieses
+gepriesene Land, in welchem nur auf dem Frühstückstische
+Milch und Honig fließt, besteht aus Bergen,
+Tälern, Fremdenführern, Wasserfällen, Hotelrechnungen,
+die aber hoch über der Meeresfläche
+sind, Tell-Statuen, Gletschern, geschichtlichen Erinnerungen,
+umherziehenden englischen Mädchenpensionaten
+und anderen Reichen. Sehenswürdigkeiten,
+[pg 68]
+nichts als Sehenswürdigkeiten! Doch ist die Bevölkerung
+nicht hierher zu rechnen, denn dieselbe stammt
+zum größten Teil aus Amerika. Die Nichtamerikaner
+sind Mitglieder des Deutschen Theaters in Berlin.
+Lediglich zur Erzielung eines gewissen Lokalkolorits
+sind in passenden Zwischenräumen auch Eingeborene
+aufgestellt. Diese sind mit Leichtigkeit daran zu erkennen,
+daß sie entweder von einem Bundesschießen
+kommen oder zu einem Sängerfest mit trikoloren
+Stand- und Redensarten eilen.
+
+.. class:: right small
+
+| (|Buch d. N.|_)
+
+.. vspace:: 2
+
+
+Der deutsche Schriftsteller hat mit außerordentlichen Schwierigkeiten
+zu kämpfen, sobald er :gesperrt:`Italien` gründlich beschreiben will;
+dieses Land ist schon viel zu sehr entdeckt.
+
+.. class:: right small
+
+| (|Buch d. N.|_)
+
+.. vspace:: 2
+
+
+:gesperrt:`Asien` ist das diplomatische Problem des nächsten Jahrzehnts.
+
+.. class:: right small
+
+| (*II. Kongreßrede.*)
+
+.. vspace:: 2
+
+
+Mein Gott, wer lügt im :gesperrt:`Süden` nicht? Dort klingen Lügen nur
+wie Märchen.
+
+.. class:: right small
+
+| (|PB|_)
+
+.. vspace:: 2
+
+
+Aber mit demselben Aufwande von Lungenkraft
+und Grobheit, den ein Packträger in Aegypten macht,
+um einen Piaster mehr zu bekommen, könnte er in
+einem zivilisierten Lande mit Leichtigkeit Abgeordneter
+werden. Der Wert der Grobheit steigt nämlich
+mit der Kultur eines Volkes.
+
+.. class:: right small
+
+| (|Feuill|_)
+
+.. vspace:: 2
+
+
+Die Teilung der :gesperrt:`Türkei` wünscht jetzt niemand, denn das
+würde den :gesperrt:`Weltkrieg` bedeuten.
+
+.. class:: right small
+
+| (*Der Kongreß.*)
+
+.. vspace:: 2
+
+[pg 69]
+
+
+.. toc-entry:: Die Franzosen
+
+:gesperrt:`DIE FRANZOSEN`
+-------------------------
+
+
+Die Franzosen boxen mit Fäusten und Füßen, und
+so gebraucht Pelletan in der Debatte nebst der Logik
+auch die Sophistik.
+
+.. class:: right small
+
+| (|PB|_)
+
+.. vspace:: 2
+
+
+Die Deputierten haben natürlich, wie alle Franzosen,
+eine Lust am Reden. Nirgends steht das gesprochene
+Wort in solchem Ansehen, wie in diesem Lande.
+Darum gibt es nirgends so viele und so gute Plauderer,
+Deklamatoren, Vorleser, Zahnbrecher und
+Volksredner, wie hier.
+
+.. class:: right small
+
+| (|PB|_)
+
+.. vspace:: 2
+
+
+Seit Freycinet ist kein so großer mittelmäßiger Mensch aufgetaucht,
+wie Herr Raimond Poincaré. Sein Name wird noch auf vielen
+Ministerlisten stehen, und zwar an der Spitze.
+
+.. class:: right small
+
+| (|PB|_)
+
+.. vspace:: 2
+
+
+In London bleiben die Leute stehen, wenn sie Ball spielen sehen; in
+Paris, wenn sie reden hören.
+
+.. class:: right small
+
+| (|PB|_)
+
+.. vspace:: 2
+
+
+In :gesperrt:`Frankreich` ist entweder die Bronze billig oder die
+großen Männer sind es.
+
+.. class:: right small
+
+| (|Buch d. N.|_)
+
+.. vspace:: 2
+
+
+.. toc-entry:: Die Engländer
+
+:gesperrt:`DIE ENGLÄNDER`
+-------------------------
+
+
+Das macht ja die Größe :gesperrt:`Englands` aus, daß es
+diese beiden Kräfte glücklich benützt: im Innern den
+starren, konservativen Juristengeist und nach außen
+die bewegliche Abenteuerlust des kaufmännischen
+Geistes.
+
+.. class:: right small
+
+| (|PB|_)
+
+.. vspace:: 2
+
+[pg 70]
+Wer es nicht schon wüßte, daß die Engländer das herrschende Kulturvolk
+unseres Zeitalters sind, der würde es auf einem Rennfelde erfahren.
+
+.. class:: right small
+
+| (|Feuill|_)
+
+.. vspace:: 2
+
+
+Wenn man die Wahl hätte, in welcher Sprache
+man schreiben möchte, um den treuesten und größten
+Leserkreis zu haben, um Macht auf die Gemüter auszuüben
+und eine Spur zu hinterlassen, müßte man
+sich für das Englische entscheiden. Französisch klingt
+ja auch weit, aber die Franzosen haben kein Gedächtnis
+für den gestrigen Tag ihrer Literatur.
+
+.. class:: right small
+
+| (|Feuill|_)
+
+.. vspace:: 2
+
+
+Die Engländer haben recht das Stachelige und Gemütliche
+des Mark Twain. Sein Humor ist etwas Ungeheures,
+Gewaltsames, Umwerfendes. Wahre Blöcke
+der Lustigkeit, für ein Volk berechnet, das nicht
+lächelt. Wenn sich der Mann englischer Zunge zum
+Lachen entschließt, will er gleich ausgiebig lachen,
+auf einmal, ordentlich und daß es kracht.
+
+.. class:: right small
+
+| (|Feuill|_)
+
+.. vspace:: 2
+
+
+Englisch ist namentlich der Ausbau der körperlichen Uebung nach der
+Seite des Geldgewinnes hin. Auf das Spiel ist noch die Wette
+gepfropft.
+
+.. class:: right small
+
+| (|Feuill|_)
+
+.. vspace:: 2
+
+
+Einem Engländer wäre es in der Tat unerfindlich,
+wie man einen Menschen in seiner Freiheit, in der
+Pflege seines Glaubens, seiner Sprache oder Tradition
+behindern könnte. Und so begibt es sich, daß ein
+Volk, welches das Glück hat, von England unterjocht
+zu werden, eine Freiheit genießen lernt, von der es
+vorher keine Ahnung hatte.
+
+.. class:: right small
+
+| (|Feuill|_)
+
+.. vspace:: 2
+
+[pg 71]
+
+
+.. toc-entry:: Politik und Regierungen
+
+:gesperrt:`POLITIK UND REGIERUNGEN`
+-----------------------------------
+
+
+Wie eben Geschichte wird, ziellos und wahllos. Dabei
+muß der geschichtliche Sinn denen anfliegen, die
+sich ein wenig Rechenschaft geben oder auch nur
+manchmal aus ihrem Dämmern auffahren. Freilich
+kommen sogar mehrere zur Regierung und verlassen
+sie, ohne nachgedacht zu haben. Die werden auf die
+Ministerbank geschwemmt, wie Austern auf eine
+Bank, und verharren da mit dem Geistesleben einer
+Auster, bis man sie abkratzt.
+
+.. class:: right small
+
+| (|PB|_)
+
+.. vspace:: 2
+
+
+Ein Regierungsmensch muß von dem Grundsatze
+ausgehen: das Widrige, das ich nicht ganz verhindern
+kann, lasse ich unbehelligt laufen; dann wird es sich
+verlaufen\ |nbs| |dots| Aber diese halb gefesselten Gedanken
+sind gefährlich. Denn sie zeigen die öffentliche Gewalt
+von zwei bedenklichen Seiten: in ihrer Grausamkeit,
+in ihrer Ohnmacht.
+
+.. class:: right small
+
+| (|PB|_)
+
+.. vspace:: 2
+
+
+Die Regierungen lernen nie aus den Fehlern ihrer Vorgänger. Sie wissen
+noch immer nicht, daß ein Verbot der Eingang zum Ruhme ist.
+
+.. class:: right small
+
+| (|PB|_)
+
+.. vspace:: 2
+
+
+Der Schacher mit dem Einfluß ist durchaus nichts Neues oder
+Republikanisches oder Parlamentarisches, Was waren denn die Salons des
+ancien régime, was war der Hof? Winkelbörsen und Clearing-House für
+den Machthandel.
+
+.. class:: right small
+
+| (|PB|_)
+
+.. vspace:: 2
+
+
+Was wäre das Volk für ein mangelhafter Souverän\ |_--_|\ wenn es nämlich
+überhaupt einer wäre. Es raubt denen das Ansehen, die es hinaufhebt.
+
+.. class:: right small
+
+| (|PB|_)
+
+.. vspace:: 2
+
+[pg 72]
+Ich weiß so gut, wie ein anderer, daß der hohe Zweck der
+:gesperrt:`Demokratie` ist, das Ueberragen Einzelner zum Wohle der
+Gesamtheit zu zerstören.
+
+.. class:: right small
+
+| (|PB|_)
+
+.. vspace:: 2
+
+
+Mit ihrem Neid und ihrer Undankbarkeit leidet die Demokratie keine Größen.
+
+.. class:: right small
+
+| (|PB|_)
+
+.. vspace:: 2
+
+
+Die Konsequenz ist nun in der Politik ein ähnlich hergerichteter
+Begriff wie „Treu und Glauben“ im Handelsrecht; es steckt auch
+ebensoviel dahinter.
+
+.. class:: right small
+
+| (|PB|_)
+
+.. vspace:: 2
+
+
+In allen Parlamenten der Welt ist ja keiner, der auf dem Wege von der
+Opposition zur Regierung nicht ein wenig mit seiner Vergangenheit
+gebrochen hätte.
+
+.. class:: right small
+
+| (|PB|_)
+
+.. vspace:: 2
+
+
+.. toc-entry:: Nationalsoziales
+
+:gesperrt:`NATIONALSOZIALES`
+----------------------------
+
+Ich denke mir eine weiße :gesperrt:`Fahne` mit sieben goldenen
+Sternen. Das weiße Feld bedeutet das neue,
+reine Leben; die Sterne sind die sieben goldenen Stunden
+unseres Arbeitstages. Denn _`im Zeichen der Arbeit`
+gehen die Juden in das neue Land.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+
+Der Reichtum eines Landes sind seine arbeitenden
+Menschen.
+
+.. class:: right small
+
+| (|Altneuland|_)
+
+.. vspace:: 2
+
+
+Der :gesperrt:`Normalarbeitstag` ist der Siebenstundentag!
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+[pg 73]
+Einzelne vorgeschrittene Sozialpolitiker behaupten
+sogar, daß der Fünfstundentag vollkommen ausreichen
+würde. Die Society of Jews und die Jewish Company
+werden ja darin reiche neue Erfahrungen sammeln\
+|_--_|\ die den übrigen Völkern der Erde auch zugute
+kommen werden\ |_--_|\ und wenn sich zeigt, daß
+der Siebenstundentag praktisch möglich ist, so wird
+ihn unser künftiger Staat als gesetzlichen Normaltag
+einführen.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+
+Die Hereinziehung nichtjüdischer :gesperrt:`Arbeitssklaven`
+ins Land wird die Society zu vereiteln wissen
+durch eine gewisse Boykottierung widerspenstiger Industrieller,
+durch Verkehrserschwerungen und dergleichen.
+Man wird also die Siebenstundentägler nehmen
+müssen. So nähern wir uns beinahe zwanglos
+dem Normaltage von sieben Stunden.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+
+:gesperrt:`Schwangere` Frauen sind von jeder Arbeit befreit und werden
+vom Truck reichlicher genährt. Denn wir brauchen in der Zukunft starke
+Geschlechter.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+
+Die Beamten werden :gesperrt:`Ehe-` und :gesperrt:`Kinder`\zulagen
+haben. Wir brauchen Leute, alle, die da sind und alle, die nachkommen.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+
+In neuen Kulturen :gesperrt:`heiratet` man :gesperrt:`früh`. Das kann
+der allgemeinen Sittlichkeit nur zustatten kommen, und wir erhalten
+kräftigen Nachwuchs, nicht
+[pg 74]
+jene schwachen Kinder spätverheirateter Väter, die
+zuerst ihre Energie im Lebenskampf abgenützt haben.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+
+Niemand braucht mehr aus Not zum Verbrechen
+zu schreiten, wenn er :gesperrt:`arbeiten` will. Aus Hunger
+dürfen keine Selbstmorde mehr begangen werden.
+Diese sind ja ohnehin eines der ärgsten Schandmale
+einer Kultur, wo vom Tische der Reichen den Hunden
+Leckerbissen hingeworfen werden.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+
+Wir haben unsere Gesellschaft gleichsam ohne erbliche Belastung
+eingerichtet.
+
+
+.. class:: right small
+
+| (|Altneuland|_)
+
+.. vspace:: 2
+
+
+Bei uns im Zukunftsstaat Altneuland aber werden
+die Kinder für die Geschäfte der Väter nicht belohnt
+und nicht bestraft. Für jede neue Generation stellen
+wir wieder den Anfang der Dinge her. Darum sind
+sämtliche Schulen von der Elementarschule bis zur
+Zions-Universität unentgeltlich, und die Schüler
+müssen bis zur Reifeprüfung in der Mittelschule die
+gleiche einfache Kleidung tragen. Wir glauben nämlich
+nicht, daß es moralisch gut ist, wenn Rang oder
+Reichtum der Eltern die Kinder in der Schule unterscheidet.
+Das verdirbt alle. Die Kinder der Vornehmen
+werden hochmütig und faul, die Kinder der
+anderen werden früh verbittert.
+
+.. class:: right small
+
+| (|Altneuland|_)
+
+.. vspace:: 2
+
+
+Aus der tiefen Not entstehen Krankheiten und sittliche Verwahrlosung,
+und die verdüsterten Gemüter werden ein Nährboden für alle äußersten
+[pg 75]
+Umsturzgedanken. In der gesunden Arbeit auf einer geliebten
+Erde, glauben wir, ist das Heil zu finden. Die Arbeit
+soll unserem Volke das morgige Brot verschaffen und
+auch die Ehre von morgen, die Freiheit von morgen.
+
+.. class:: right small
+
+| (*III. Kongreßrede.*)
+
+.. vspace:: 2
+
+.. toc-entry:: Die soziale Frage
+
+:gesperrt:`DIE SOZIALE FRAGE`
+-----------------------------
+
+
+Die soziale Frage ist ein Ergebnis von Maschinen,
+die früher nicht da waren. Vor der Dampfzeit waren
+Eigentum und Arbeit vereinigt. Jetzt sind sie geschieden.
+Auf der einen Seite Eigentum ohne Arbeit, auf
+der andern Arbeit ohne Eigentum an den Arbeitsmitteln.
+Die Maschine bekommt Sklaven. Das Weib
+wird dem häuslichen Herde, die Mutter den Kindern
+entrissen. Dann macht man die Kinder zu Konkurrenten
+der Eltern. Dabei wird das Menschenmaterial
+verschwendet und verdorben.
+
+.. class:: right small
+
+| (|PB|_)
+
+.. vspace:: 2
+
+
+Der Dampf hat die Menschen um die Maschinen
+herum in den Fabriken versammelt, wo sie aneinander
+gedrückt sind und durcheinander unglücklich
+werden. Die :gesperrt:`Produktion` ist eine ungeheure,
+wahllose, planlose, führt jeden Augenblick zu schweren
+Krisen, durch die mit den Unternehmern auch
+die Arbeiter zugrunde gehen. Der Dampf hat die
+Menschen aneinandergepreßt, die Anwendung der
+Elektrizität wird sie vermutlich wieder auseinander
+streuen und vielleicht in glücklichere Arbeitszustände
+bringen.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+[pg 76]
+Aus unserer Natur entsteht ja alles Uebel. Nachdem
+wir eine neue Einrichtung gefunden haben, verderben
+wir sie zunächst. Dann entdecken wir, daß wir
+damit unsere Entwickelung gefährden und schwingen
+uns zu einer höheren Einrichtung auf, die allmählich
+auch verdorben wird. Und so, so geht es langsam
+aufwärts.
+
+.. class:: right small
+
+| (|PB|_)
+
+.. vspace:: 2
+
+
+Es braucht oft tausend Jahre, bis die Menschheit mit all ihren Weisen
+und Starken das begreift, was man einem kleinen Kinde in zwei Minuten
+erklären kann.
+
+.. class:: right small
+
+| (|Feuill|_)
+
+.. vspace:: 2
+
+
+
+| — — — Das Recht ist wie ein graues Eisen,
+|     Und das Erbarmen soll darauf die Farben
+|     Hinspielen als der Sonnenstrahl.
+
+.. class:: right small
+
+| (|Die Glosse|_)
+
+
+
+.. toc-entry:: Elend und soziale Teilnahme
+
+:gesperrt:`ELEND UND SOZIALE TEILNAHME`
+---------------------------------------
+
+
+Man wird von der Arbeit müde wie vom Müßiggang,
+wenn auch viel später.
+
+.. class:: right small
+
+| (|Buch d. N.|_)
+
+.. vspace:: 2
+
+
+Das Erwerben muß auch einmal ein Ende nehmen, damit man sich des
+Erworbenen freue.
+
+.. class:: right small
+
+| (|Buch d. N.|_)
+
+.. vspace:: 2
+
+
+Den Hungrigen gehört die Welt.
+
+.. class:: right small
+
+| (|Altneuland|_)
+
+.. vspace:: 2
+
+
+Vielleicht sind die Hungrigen geistreicher als die Satten.
+
+.. class:: right small
+
+| (|PB|_)
+
+.. vspace:: 2
+
+
+Es gibt Gegenden auf dem allgemeinen Schlachtfelde, wo nicht nur die
+Schwachen, sondern auch die
+[pg 77]
+übrigen zugrunde gehen. Alle! Es gibt Grade des
+Elendes, die nicht mehr produktiv sind.
+
+.. class:: right small
+
+| (|Feuill|_)
+
+.. vspace:: 2
+
+
+Manche wurden aus Not Journalisten und handelten mit öffentlicher
+Meinung. Noch andere tummelten sich in Volksversammlungen herum,
+hausierten mit wertlosen Schlagworten.
+
+.. class:: right small
+
+| (|Altneuland|_)
+
+.. vspace:: 2
+
+
+Aus dem, was man nicht hat, erwächst die Ueberzeugung.
+
+.. class:: right small
+
+| (|Feuill|_)
+
+.. vspace:: 2
+
+
+Es gibt so viele Existenzen, die nur durch Schmerzen bunt werden.
+
+.. class:: right small
+
+| (|Feuill|_)
+
+.. vspace:: 2
+
+
+Wer um Gnade flehen will, muß sich dazu eines Nebelhornes bedienen,
+und um das Herz der Menschen zu erweichen, braucht man wohl einen
+großen Hammer, tausend Zentner schwer, und der muß unaufhörlich
+niederfallen.
+
+.. class:: right small
+
+| (|Feuill|_)
+
+.. vspace:: 2
+
+
+Aber es ist doch wunderbar, wie objektiv man die
+Ueberschwemmungen betrachtet, wenn man über dem
+höchsten Wasserstande wohnt. Die Psychologie des
+Geborgenen wäre ein hübsches Kapital zur Menschenkunde.
+Weit vom Ziel ist gut vorm Schuß, sagt unser
+vortrefflicher Freund, das Sprichwort. Und wenn
+man nun nach Mitteln suchte, um in den Geborgenen
+höhere Grade der Teilnahme hervorzurufen, man
+fände wohl nur dieses: ihnen die Füße ins Wasser
+einzutauchen. Sie würden alles gleich viel besser verstehen.
+
+.. class:: right small
+
+| (|Feuill|_)
+
+.. vspace:: 2
+
+[pg 78]
+Einen Menschen, dem es schlecht geht, erkennen
+die wenigsten\ |nbs| |dots| auf einmal sind alle kurzsichtig.
+
+.. class:: right small
+
+| (|Das neue Ghetto|_)
+
+.. vspace:: 2
+
+
+Wer in einem warmen Zimmer sitzt, muß ein Dichter sein, wenn er sich
+Frostbeulen vorstellen soll.
+
+.. class:: right small
+
+| (*Rede in Wien.*)
+
+.. vspace:: 2
+
+
+.. toc-entry:: Die Utopie
+
+:gesperrt:`DIE UTOPIE`
+----------------------
+
+
+Es wäre ja keine Schande, eine menschenfreundliche
+Utopie geschrieben zu haben.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+
+Als die Eisenbahnzeit über Europa kam, gab es
+Praktiker, welche den Bau gewisser Linien für
+töricht erklärten, „weil dort nicht einmal die Postkutsche
+genug Passagiere habe“. Man wußte damals
+die Wahrheit noch nicht, die uns heute als eine kindlich
+einfache vorkommt: daß nicht die Reisenden die
+Bahn hervorrufen, sondern umgekehrt die Bahn die
+Reisenden hervorruft, wobei freilich das schlummernde
+Bedürfnis vorausgesetzt werden muß.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+
+Das liegt freilich in der Zukunft, wie die Entwicklung des
+Bahnverkehrs für die Menschen der dreißiger Jahre in der Zukunft
+lag. Die Eisenbahnen wurden dennoch gebaut. Man ist glücklicherweise
+über die Bedenken von Praktikern der Postkutsche hinweggegangen.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+[pg 79]
+Schon scheint das Wort „\ :gesperrt:`unmöglich`\“ aus der
+Sprache der Technik verschwunden zu sein. Käme ein
+Mann des vorigen Jahrhunderts wieder, er fände unser
+ganzes Leben voll unbegreiflicher Zaubereien.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+
+Was im Kleinen unzweckmäßig oder undurchführbar
+ist, muß es noch nicht im ganzen sein. Ein kleines
+:gesperrt:`Unternehmen` kann unter denselben Bedingungen
+Verlust bringen, unter denen sich ein großes rentiert.
+Ein Bach ist nicht einmal mit Kähnen schiffbar; der
+Fluß, in den er sich ergießt, _`trägt stattliche eiserne
+Fahrzeuge`.
+
+.. vspace:: 2
+
+Jeder Finanzminister rechnet in seinem Staatsvorschlage
+mit zukünftigen Ziffern und nicht nur mit
+solchen, die er aus dem Durchschnitt früherer Jahre
+oder aus anderen vergangenen und in anderen Staaten
+vorkommenden Erträgen konstruiert, sondern auch
+mit präzedenzlosen Ziffern, beispielsweise bei Einführung
+einer neuen Steuer. Man muß nie ein Budget
+angesehen haben, um das nicht zu wissen. Wird man
+darum einen Finanzgesetzentwurf für eine Utopie
+halten, selbst wenn man weiß, daß der Voranschlag
+nie ganz genau eingehalten werden kann?
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+
+Von unseren Gegnern wird behauptet, es gäbe unübersteigbare politische
+Hindernisse, aber das läßt sich auch vom kleinsten Hindernis sagen,
+wenn man keine Lust hat, es zu übersteigen.
+
+.. class:: right small
+
+| (*V. Kongreßrede.*)
+
+.. vspace:: 2
+
+[pg 80]
+Traum ist von Tat nicht so verschieden, wie mancher glaubt. Alles Tun
+der Menschen war vorher Traum und wird später zum Traume.
+
+.. class:: right small
+
+| (|Altneuland|_)
+
+.. vspace:: 2
+
+
+Wenn ihr aber nicht wollt, so ist und bleibt es ein Märchen.
+
+.. class:: right small
+
+| (|Altneuland|_)
+
+.. vspace:: 2
+
+
+Nicht jeder, der gegen Windmühlen kämpft, ist ein Don Quixote.
+
+.. class:: right small
+
+| (|Buch d. N.|_)
+
+.. vspace:: 2
+
+
+.. toc-entry:: Zukunft
+
+:gesperrt:`ZUKUNFT`
+-------------------
+
+
+Hat nicht er selbst, der große Pessimist, Schopenhauer,
+sich immer an seine kommende Gemeinde gewendet?
+Auch er glaubte also über die Verneinung
+hinweg an das Zukünftige. Dieses ist das Einzige,
+wovon man nicht enttäuscht wird.
+
+.. class:: right small
+
+| (|Phil. Erz.|_)
+
+.. vspace:: 2
+
+
+Der Weg in die Zukunft muß durch das Elend führen.
+
+.. class:: right small
+
+| (|Feuill|_)
+
+.. vspace:: 2
+
+
+Wer die :gesperrt:`Zukunft` vorbereitet, muß über die Gegenwart
+hinwegblicken können.
+
+.. class:: right small
+
+| (|Phil. Erz.|_)
+
+.. vspace:: 2
+
+
+Wenn ich an die Stelle eines alten Baues einen neuen setzen will, muß
+ich zuerst demolieren und dann konstruieren.
+
+.. class:: right small
+
+| (|Der Judenstaat|_)
+
+.. vspace:: 2
+
+..
+
+   |   Es weht ein Frühling aus den alten Werken,
+   | Die unsern Geist und unsern Willen stärken.
+   | Die alte Zeit ersteht in neuen Bauten.
+
+.. class:: right small
+
+| (|Die Glosse|_)
+
+.. vspace:: 2
+
+
+[pg 81]
+Es gibt eine Pflicht der Intellektuellen, wie es in
+alten Zeiten ein Noblesse oblige! gab. Es ist die
+Pflicht, an der Erhöhung des Menschengeschlechtes
+mitzuwirken, jeder nach seiner Kraft und Einsicht.
+
+.. class:: right small
+
+| (|Altneuland|_)
+
+.. vspace:: 2
+
+
+|dots| Sie vergessen, daß wir in künftigen Zuständen leben, denn das
+Heute ist die Zukunft von Gestern.
+
+.. class:: right small
+
+| (|Altneuland|_)
+
+.. vspace:: 2
+
+
+Neue Formeln können nicht oft genug ausgesprochen werden.
+
+.. class:: right small
+
+| (*Die Aufgaben der Bank.*)
+
+.. vspace:: 2
+
+
+Wer begehrt, ist jung.
+
+.. class:: right small
+
+| (|PB|_)
+
+.. vspace:: 2
+
+
+Die Armut erhält lange jung. Was ist Jugend anderes, als ein Lechzen,
+eine immerwährende Begierde? Beim Haben beginnt die Verdrossenheit,
+das Alter.
+
+.. class:: right small
+
+| (|Feuill|_)
+
+.. vspace:: 2
+
+
+.. toc-entry:: Weisheit
+
+:gesperrt:`WEISHEIT`
+--------------------
+
+
+Ein Philosoph muß schweigen, ein :gesperrt:`Politiker`
+reden können.
+
+.. class:: right small
+
+| (*Leroy-Beaulieu über den Antisemitismus.*)
+
+.. vspace:: 2
+
+
+Jede Zeit hat ihre Weisheit, ihre Weisen.
+
+.. class:: right small
+
+| (*M. C. Montefiores Ansichten.*)
+
+.. vspace:: 2
+
+
+Wer hat nicht, selbst im guten Glauben, die gleichen Dinge einmal weiß
+und einmal schwarz geschildert? Jeder Tag hat seine Beleuchtung.
+
+.. class:: right small
+
+| (|PB|_)
+
+.. vspace:: 2
+
+[pg 82]
+Ohne Trost und haltlos und feige sind nur diejenigen,
+die noch nicht weise und nicht mehr gläubig
+sind.
+
+.. class:: right small
+
+| (|Feuill|_)
+
+.. vspace:: 2
+
+
+Jedes Tagebuch enthält eine Pose.
+
+.. class:: right small
+
+| (|Feuill|_)
+
+.. vspace:: 2
+
+
+Denn in dieser niederen Welt (und besonders in Vocance, wo kein
+Wirtshaus ist) hängen unsere besten Entschlüsse von den Umständen ab.
+
+.. class:: right small
+
+| (|PB|_)
+
+.. vspace:: 2
+
+
+Das Sprichwort ist das anonyme Bekenntnis der Menschen.
+
+.. class:: right small
+
+| (|Feuill|_)
+
+.. vspace:: 2
+
+
+Ankündigung ist alles. Man muß das Publikum so lange mit der
+Anpreisung einer Sache belästigen, bis es an sie glaubt.
+
+.. class:: right small
+
+| (|Feuill|_)
+
+.. vspace:: 2
+
+
+Esprit de conduit hat eigentlich viel Aehnlichkeit mit dem esprit de
+l'escalier. Auf der Treppe beim Weggehen sind wir ja alle in der Regel
+viel gescheiter, als im richtigen Augenblick.
+
+.. class:: right small
+
+| (|Feuill|_)
+
+.. vspace:: 2
+
+
+Wer auf den Tag lauert, der verpaßt die Zeit.
+
+.. class:: right small
+
+| (|PB|_)
+
+.. vspace:: 2
+
+
+Die :gesperrt:`Torheit` ist die ewige Jugend des menschlichen
+Geschlechts. Aber wenn dich dein Tatendrang schon nicht ruhen läßt und
+du um jeden Preis die Türen einrennen willst, so suche dir zu diesem
+Zweck wenigstens die offenen aus.
+
+.. class:: right small
+
+| (|Buch d. N.|_)
+
+.. vspace:: 2
+
+
+Wenn man sich in einen Konflikt einläßt, hüte man sich lediglich
+davor, der Schwächere zu sein.
+
+.. class:: right small
+
+| (|Buch d. N.|_)
+
+.. vspace:: 2
+
+[pg 83]
+Auf nichts blicken wir hochmütiger herab als auf das, was wir nicht verstehen.
+
+.. class:: right small
+
+| (|Buch d. N.|_)
+
+.. vspace:: 2
+
+
+.. toc-entry:: Leben
+
+:gesperrt:`LEBEN`
+-----------------
+
+
+Von einer Wartestelle der Omnibuswagen läßt sich
+mehr Philosophie holen, als aus manchem dicken
+Buch.
+
+.. class:: right small
+
+| (|Feuill|_)
+
+.. vspace:: 2
+
+
+Mit jeder unerzwungenen Handlung suchen wir eine persönliche
+Befriedigung, wenn wir nicht wahnsinnig oder heilig sind.
+
+
+.. class:: right small
+
+| (|PB|_)
+
+.. vspace:: 2
+
+
+Die einförmige Arbeit modelt den Menschen, der sie betreibt.
+
+.. class:: right small
+
+| (|PB|_)
+
+.. vspace:: 2
+
+
+Denn zur :gesperrt:`Menschenkunst` gelangen wir niemals durch die
+Bücher; wenn wir sie uns aneignen, geschieht es nur im Erleben und auf
+dem ebensowohl kostspieligeren als auch schmerzlicheren Wege der
+Erfahrung.
+
+.. class:: right small
+
+| (|Feuill|_)
+
+.. vspace:: 2
+
+
+Die tausend Jahre alten Abgedroschenheiten des Lebens sind unendlich
+interessant, sobald sie uns selber widerfahren.
+
+.. class:: right small
+
+| (|Phil. Erz.|_)
+
+.. vspace:: 2
+
+
+Für jeden Raufbold kommt ein Tag, wo er vom breiten Stein in die Gosse
+gestoßen wird. Seine Methode wird auf ihn selber angewendet. Er kann
+dagegen nicht viel einwenden. Oder sieht er spät ein, daß seine
+Methode nicht die rechte war?
+
+.. class:: right small
+
+| (|PB|_)
+
+.. vspace:: 2
+
+[pg 84]
+Wir vergessen das Leben nicht minder als den Tod. So fremd werden uns
+die Stufen einer Entwickelung, die wir am eigenen Leibe und Geiste
+durchgemacht haben.
+
+.. class:: right small
+
+| (|Feuill|_)
+
+.. vspace:: 2
+
+
+Denn um das Leben zu ertragen, brauchen die Intelligenten einen
+Gedanken und die Einfältigen ein Gefühl.
+
+.. class:: right small
+
+| (|Feuill|_)
+
+.. vspace:: 2
+
+
+Das Leben ist schön\ |_--_|\ nur muß einem etwas dazu fehlen.
+
+.. class:: right small
+
+| (|Phil. Erz.|_)
+
+.. vspace:: 2
+
+
+.. toc-entry:: Liebe und Haß
+
+:gesperrt:`LIEBE UND HASS`
+--------------------------
+
+
+Die Liebe beruht im wesentlichen auf der mangelhaften
+Kenntnis der Fehler des angebeteten Gegenstandes,
+das lehrt die Erfahrung.
+
+.. class:: right small
+
+| (|Feuill|_)
+
+.. vspace:: 2
+
+
+Keinen größeren Gegensatz gibt es im Staate, als den zwischen
+Landmenschen und Stadtmenschen, und wir hassen gerne dasjenige, was
+wir nicht verstehen.
+
+.. class:: right small
+
+| (|Feuill|_)
+
+.. vspace:: 2
+
+
+In dem Augenblicke, wo die Frauenemanzipation durchgeführt ist, wird
+sich die Liebe auf das Maß des unumgänglich Notwendigen
+herabmindern. Die ganze Stellung der Geschlechter zueinander wird
+verschoben werden.
+
+.. class:: right small
+
+| (|Feuill|_)
+
+.. vspace:: 2
+
+
+Die Arbeit wird schlecht erklärt, und der Zwang läßt sie viel
+häßlicher erscheinen, als sie ist. Arbeit ist der angenehmste
+Zeitvertreib auf der Welt, und
+[pg 85]
+nur die Liebe ließe sich mit ihr vergleichen, wenn
+die Liebe Dauer hätte.
+
+.. class:: right small
+
+| (|Feuill|_)
+
+.. vspace:: 2
+
+
+|   Mein Schwert im Wind. Hinaus in alle Weiten!
+| Die Lieb' am Sattelknopf, so will ich reiten\ |_--_|\
+| So jag' ich querfeldein nach meinem Glück.
+
+.. class:: right small
+
+| (|Die Glosse|_)
+
+.. vspace:: 2
+
+
+.. toc-entry:: Von unsern lieben Nächsten
+
+:gesperrt:`VON UNSERN LIEBEN NÄCHSTEN`
+--------------------------------------
+
+
+Am leichtesten ertragen wir diejenigen Ungerechtigkeiten
+des :gesperrt:`Lebens`, die anderen widerfahren.
+
+.. class:: right small
+
+| (|Buch d. N.|_)
+
+.. vspace:: 2
+
+
+Dem, der uns :gesperrt:`verdrängt` hat, vermögen wir alles zu
+verzeihen, nur seine Vorzüge nicht.
+
+.. class:: right small
+
+| (|Buch d. N.|_)
+
+.. vspace:: 2
+
+
+Das ist das wunderbare Rätsel der Achtung: um ihrer teilhaftig zu
+werden, muß man ein Fremder sein. Durch nichts sinkt man derartig im
+:gesperrt:`Ansehen` der Leute wie durch den täglichen Verkehr mit
+ihnen.
+
+.. class:: right small
+
+| (|Buch d. N.|_)
+
+.. vspace:: 2
+
+
+Einzelne schlecht gelaunte Moralisten behaupten, daß es keine
+hilfsbereiten :gesperrt:`Freunde` gäbe. O doch! Es gibt viele Leute,
+die einem helfen, wenn man sie nicht mehr braucht.
+
+.. class:: right small
+
+| (|Buch d. N.|_)
+
+.. vspace:: 2
+
+
+Dieser Mann war zu aufrichtig, um :gesperrt:`Freunde`, zu anständig,
+um Feinde zu haben. Man schwieg ihn also tot.
+
+.. class:: right small
+
+| (|Buch d. N.|_)
+
+.. vspace:: 2
+
+[pg 86]
+Der :gesperrt:`Gönner` betrachtet deine Mißerfolge als die deinigen,
+deine Erfolge als die seinigen.
+
+.. class:: right small
+
+| (|Buch d. N.|_)
+
+.. vspace:: 2
+
+
+Wir haben miteinander unsere besten Studien gemacht. Das knüpft
+Menschen aneinander.
+
+.. class:: right small
+
+| (|Buch d. N.|_)
+
+.. vspace:: 2
+
+
+Freunde schaden nicht immer.
+
+.. class:: right small
+
+| (|Buch d. N.|_)
+
+.. vspace:: 2
+
+
+Ueber Verlobungen lacht man im Theater immer herzlich, weil die
+:gesperrt:`Schadenfreude` uns allen angeboren ist.
+
+.. class:: right small
+
+| (|Buch d. N.|_)
+
+.. vspace:: 2
+
+
+Von einem Scheidenden:\ |_--_|\ Durch die Tür, die sich hinter ihm schließt,
+wird die Erinnerung eintreten.
+
+.. class:: right small
+
+| (|Die Causa Hirschkorn|_)
+
+.. vspace:: 2
+
+
+.. toc-entry:: Frauen und Kinder
+
+:gesperrt:`FRAUEN UND KINDER`
+-----------------------------
+
+
+Für den Ton in einer Gesellschaft sind immer die
+:gesperrt:`Frauen` verantwortlich.
+
+.. class:: right small
+
+| (|Phil. Erz.|_)
+
+.. vspace:: 2
+
+
+Nichts ist den Frauen lieber, als wenn ihre Ueberlegenheit recht
+deutlich hervortritt.
+
+.. class:: right small
+
+| (|Feuill|_)
+
+.. vspace:: 2
+
+
+So wahr ist es, daß eine Mutter, auch wenn sie schon ganz schwach und
+hilflos ist, noch immer die Kraft hat, ihres Kindes Glück zu schaffen.
+
+.. class:: right small
+
+| (|Altneuland|_)
+
+.. vspace:: 2
+
+[pg 87]
+Die Kindheit unserer :gesperrt:`Kinder` ist wie Musik, die
+verschwebt und vorbei ist, ehe wir uns darauf besonnen
+haben, daß es etwas unendliches Süßes war.
+
+.. class:: right small
+
+| (|Feuill|_)
+
+.. vspace:: 2
+
+
+Die :gesperrt:`Kinder` sind unsere größten Lehrmeister.
+
+.. class:: right small
+
+| (|Phil. Erz.|_)
+
+.. vspace:: 2
+
+
+Was einer mit seinen :gesperrt:`Kindern` durchmacht,
+Schweres und Geringes, das machen alle durch. Er
+braucht es nur einfach, wie es gekommen, zu sagen,
+und er spricht allen Menschen aus der tiefsten Seele,
+als ob er ein Dichter wäre. So wird unser Dasein
+durch sie inniger. Was sind das für arme Leute, die
+keine Kinder haben!
+
+.. class:: right small
+
+| (|Feuill|_)
+
+.. vspace:: 2
+
+
+Schonungslos sind wir nur gegen die Nahestehenden.
+
+.. class:: right small
+
+| (|Der Flüchtling|_)
+
+.. vspace:: 2
+
+
+Die Kinder werden manchmal von ihren Eltern erzogen, die Eltern immer
+von ihren Kindern. Die junge Frau wird durch ihr Kind zur Mutter.
+
+.. class:: right small
+
+| (|Buch d. N.|_)
+
+.. vspace:: 2
+
+
+.. toc-entry:: Poesie und Kunst
+
+:gesperrt:`POESIE UND KUNST`
+----------------------------
+
+
+Das ist ja die Poesie: was darein gelegt wird. Für
+den Montblanc genügt ein Farbendruck, und seit gar
+bunt photographiert wird, hat das eigene Auge nichts
+mehr zu suchen beim Allzugroßen. Aber Corot malt
+zwischen zwei Bäumen am Weiher die ganze Welt.
+
+.. class:: right small
+
+| (|PB|_)
+
+.. vspace:: 2
+
+[pg 88]
+Ein :gesperrt:`Künstler` ist immer ein Egoist. Sich will er hervortun,
+sich will er hervordichten, sich hervormalen, sich hervorsingen.
+
+.. class:: right small
+
+| (|Feuill|_)
+
+.. vspace:: 2
+
+
+Ein Arzt könnte sagen: die Dichtung ist das psychische Aequivalent der
+Liebe.
+
+.. class:: right small
+
+| (|Feuill|_)
+
+.. vspace:: 2
+
+
+Los von der alten Kunst! hieß es, und das leuchtete
+sofort vielen ein, insbesondere denjenigen, welche die
+alte Kunst überhaupt nicht gekannt hatten. Worin die
+neue besteht, habe ich nicht herausgefunden. Nur
+wenn ich die Zuschauer von irgendeinem häßlichen,
+verzerrten und sinnlosen Werk in Verzückung stehen
+sah, dachte ich mir im stillen: Das ist wahrscheinlich
+Sezession. Denn daß ein Künstler nur seinen eigenen
+Traum bilden solle und nicht den seiner Vorgänger,
+das ist so selbstverständlich, daß man dafür keine
+Kampfrufe und Parteinamen braucht.
+
+.. class:: right small
+
+| (|Feuill|_)
+
+.. vspace:: 2
+
+
+Poesie und Weisheit beginnen, glaube ich, dort, wo man darauf
+verzichtet, sie schriftlich festzuhalten.
+
+.. class:: right small
+
+| (|Feuill|_)
+
+.. vspace:: 2
+
+
+Immer ist die Sehnsucht in den Werken der Kunst, ja vielleicht ist die
+Kunst überhaupt nichts anderes als Sehnsucht, die gestaltet wird. Sie
+schafft sich das Unerreichbare, und dieses ist das Einzige, was wert
+ist, verlangt zu werden.
+
+.. class:: right small
+
+| (|Feuill|_)
+
+.. vspace:: 2
+
+
+Es dauert sehr lange, bis eine :gesperrt:`Melodie` die Welt
+erobert. Hat sie sich aber endlich in alle Herzen
+[pg 89]
+hinein gesungen, dann ist es auch um sie geschehen;
+sie ist alt, sie stirbt.
+
+.. class:: right small
+
+| (|Buch d. N.|_)
+
+.. vspace:: 2
+
+
+Ein :gesperrt:`Schriftsteller` erhält erst dann die meisten Gesuche um
+Autogramme, wenn er nicht mehr schreiben kann; ich meine: nichts
+Rechtes.
+
+.. class:: right small
+
+| (|Buch d. N.|_)
+
+.. vspace:: 2
+
+
+Jedes :gesperrt:`Kunstwerk` ist eine Offenbarung\ |_--_|\ des Könnens oder
+des Nichtkönnens.
+
+.. class:: right small
+
+| (|Buch d. N.|_)
+
+.. vspace:: 2
+
+
+.. toc-entry:: Vom Theater
+
+:gesperrt:`VOM THEATER`
+-----------------------
+
+
+Es gibt eine machtvollere, _`ja eine einzige machtvollste`
+Art der :gesperrt:`Antikritik:` die ist das nächste Stück.
+
+.. class:: right small
+
+| (|Buch d. N.|_)
+
+.. vspace:: 2
+
+
+Wenn ein :gesperrt:`Stück` durchdringt, behauptet sein Verfasser nie,
+daß diese Tatsache auf die Verständnislosigkeit und Urteilsroheit der
+„Menge“ zurückzuführen sei. Wie kommt das?
+
+.. class:: right small
+
+| (|Buch d. N.|_)
+
+.. vspace:: 2
+
+
+Das Stück hatte es dringend nötig, verboten zu werden. Es wäre sonst
+durchgefallen.
+
+.. class:: right small
+
+| (|PB|_)
+
+.. vspace:: 2
+
+
+Der Realist will das Publikum ohrfeigen, der Idealist will dasselbe
+berauschen. Manche Leute ziehen einen Rausch einer Ohrfeige vor.
+
+.. class:: right small
+
+| (|Buch d. N.|_)
+
+.. vspace:: 2
+
+
+Das Publikum läßt sich nur von berühmten Leuten langweilen.
+
+.. class:: right small
+
+| (|Buch d. N.|_)
+
+.. vspace:: 2
+
+
+Interessant ist nur das, was hinter den Kulissen :gesperrt:`gespielt`
+wird.
+
+.. class:: right small
+
+| (|Buch d. N.|_)
+
+.. vspace:: 2
+
+[pg 90]
+Der kürzeste Weg zum Direktor führt über die Hintertreppe. Wenn jemand
+das Betreten dieses Pfades mißbilligt, so besorgt er sicherlich, daß
+man ihm einmal da begegnen könnte.
+
+.. class:: right small
+
+| (|Buch d. N.|_)
+
+.. vspace:: 2
+
+
+Der Direktor einer Schmiere ist immer zu sprechen und zuweilen läßt er
+sogar mit sich reden.
+
+.. class:: right small
+
+| (|Buch d. N.|_)
+
+.. vspace:: 2
+
+
+Grabschrift für einen Claqueur: Der Vorteil liegt auf der Hand.
+
+.. class:: right small
+
+| (|Buch d. N.|_)
+
+.. vspace:: 2
+
+
+:gesperrt:`Komiker` verstehen keinen Spaß.
+
+.. class:: right small
+
+| (|Buch d. N.|_)
+
+.. vspace:: 2
+
+.. toc-entry:: Geld
+
+:gesperrt:`GELD`
+----------------
+
+
+Am Anfang war nicht das Geld, am Anfang war
+die Idee.
+
+.. vspace:: 2
+
+Zu verkaufen ist ja eigentlich alles in der Welt\ |_--_|\
+nur der Preis ist nicht immer zu erschwingen.
+
+.. class:: right small
+
+| (|Altneuland|_)
+
+.. vspace:: 2
+
+Kapital ist angesammelte Energie und folglich wie andere Akkumulatoren
+für nützliche Arbeit verwendbar.
+
+.. class:: right small
+
+| (|Feuill|_)
+
+.. vspace:: 2
+
+
+Das Geld ist eine gute, schöne Sache. Die Menschen haben es nur verdorben.
+
+.. class:: right small
+
+| (|Altneuland|_)
+
+.. vspace:: 2
+
+
+Der Parvenu hat ein Bedürfnis, sich beglaubigen zu lassen, daß er eben
+angelangt ist, und er meint, er müsse zur Bescheinigung die haben, die
+schon früher
+[pg 91]
+oben waren. Daran haben alle Satiren der Dichter
+und alle Revolutionen nichts geändert.
+
+.. class:: right small
+
+| (|Feuill|_)
+
+.. vspace:: 2
+
+
+Spielwut und Sparwut sind nur verschiedene Grade derselben Passion.
+
+
+.. toc-entry:: Größe
+
+:gesperrt:`GRÖSSE`
+------------------
+
+
+Die Einzigen waren vermutlich nicht so selten, wie
+man nach der Geschichte glauben müßte. Es hat in
+den Jahrtausenden wohl manchen Cäsar gegeben, der
+nie dazu kam, seinen gallischen Krieg zu führen und
+zu beschreiben. Nur Zeit, Ort, Umstände lieferten
+selten das Zusammentreffen von Bedingungen, das
+für die Erscheinung der großen Person nicht minder
+wichtig ist, als deren Charakter.
+
+.. class:: right small
+
+| (|Feuill|_)
+
+.. vspace:: 2
+
+
+Geistesriesen\ |_--_|\ ganz abgesehen von ihrer praktischen Unvernunft\ |_--_|\ sind
+dem Volke so fremd, wie das Volk ihnen.
+
+.. class:: right small
+
+| (|PB|_)
+
+.. vspace:: 2
+
+
+Ueber Lakaien herrschen, welch ein geringer Traum! Nein, mächtig ist,
+wer den Herren gebietet.
+
+.. class:: right small
+
+| (|PB|_)
+
+.. vspace:: 2
+
+
+Wenn der Starke großmütig ist, wo ist das Verdienst? Aber der
+Schwache! Da wird's rühmlich.
+
+.. class:: right small
+
+| (|Das neue Ghetto|_)
+
+.. vspace:: 2
+
+
+Zur Größe fehlt dem :gesperrt:`Helden` Ihres Märchens nur Eins: das
+Verzeihen.
+
+.. class:: right small
+
+| (|Phil. Erz.|_)
+
+.. vspace:: 2
+
+[pg 92]
+Der Dichterruhm kann von einigen entschlossenen
+Leuten angefertigt werden. Oft nehmen sie sich dazu
+ein unterwürfig und talentlos aussehendes Individuum
+und machen es gewaltsam groß in den Augen der
+Menge. Diese glaubt darauf, sie wird betäubt, sie muß.
+Dann kommen wieder andere und reißen den Hinaufgerissenen
+herunter. Darüber freut sich die Menge
+erst recht.
+
+.. class:: right small
+
+| (|Feuill|_)
+
+.. vspace:: 2
+
+
+Es gibt nur eine Art, vornehm zu sein: die besteht darin, daß man viel
+von sich selbst verlangt und nicht das mindeste Gewicht darauf legt,
+ob die andern das anerkennen oder auch nur sehen.
+
+.. class:: right small
+
+| (|Feuill|_)
+
+.. vspace:: 2
+
+
+Die Unsterblichkeit muß wahrhaftig ein höchst angenehmes Gefühl sein;
+besonders solange man noch lebt.
+
+.. class:: right small
+
+| (|PB|_)
+
+.. vspace:: 2
+
+
+Große Tröster wird die Menschheit immer brauchen! Solange sie leben,
+nennt man sie Narren, Tagediebe, und wenn sie aufgehört haben, in
+beleidigender Größe unter uns :gesperrt:`herumzuwandeln`, nennt man
+sie :gesperrt:`Genies`.
+
+.. class:: right small
+
+| (|Buch d. N.|_)
+
+.. vspace:: 2
+
+
+.. toc-entry:: Vom Alltag
+
+:gesperrt:`VOM ALLTAG`
+----------------------
+
+
+Jedes :gesperrt:`Werk` hat Fehler, die nur sein Erzeuger
+kennt; jeder Reichtum hat Lücken, die nur sein Besitzer
+sieht.
+
+.. class:: right small
+
+| (|Buch d. N.|_)
+
+.. vspace:: 2
+
+
+Man gratuliert zu einem Erfolg! Wie überflüssig. Der Erfolg ist ja
+schon die Freude, die nicht mehr übertroffen werden kann.
+
+.. class:: right small
+
+| (|Buch d. N.|_)
+
+.. vspace:: 2
+
+[pg 93]
+Die wartenden Besucher sind in der nützlichsten
+Weise gedemütigt, es macht sie mürbe und klein.
+
+.. class:: right small
+
+| (|PB|_)
+
+.. vspace:: 2
+
+
+Das Harren demoralisiert.
+
+.. class:: right small
+
+| (|PB|_)
+
+.. vspace:: 2
+
+
+Furcht macht Spalier.
+
+.. class:: right small
+
+| (|Buch d. N.|_)
+
+.. vspace:: 2
+
+
+Kleider sagen immer etwas.
+
+.. class:: right small
+
+| (|PB|_)
+
+.. vspace:: 2
+
+
+Der Händedruck nach der Mensur ist vielleicht das Männlichste an der
+ganzen Fechterei.
+
+.. class:: right small
+
+| (*Die Millionen der Ica.*)
+
+.. vspace:: 2
+
+
+Es gibt mehr Appetit als Hühner auf der Erde.
+
+.. class:: right small
+
+| (|PB|_)
+
+.. vspace:: 2
+
+
+In dieser von Vernunft verpesteten Welt kommt auf hundert Konvenienz
+:gesperrt:`heiraten` bloß :gesperrt:`ein` Selbstmord.
+
+.. class:: right small
+
+| (|Buch d. N.|_)
+
+.. vspace:: 2
+
+
+Der Bach sieht weniger großartig aus, wenn keine Steine da sind, über
+die er hinweg muß.
+
+.. class:: right small
+
+| (|PB|_)
+
+.. vspace:: 2
+
+
+Wer bloßfüßig geht, hat auf den Sohlen eine dicke Haut.
+
+.. class:: right small
+
+| (|Das neue Ghetto|_)
+
+.. vspace:: 2
+
+
+.. toc-entry:: Gott und Vergängliches
+
+:gesperrt:`GOTT UND VERGÄNGLICHES`
+----------------------------------
+
+
+Die Bibel hat an Moses nichts verschönt.
+
+.. class:: right small
+
+| (*Herzl 1897 bei* |Kellner|_.)
+
+.. vspace:: 2
+
+
+An einem frischen Grabe sollte man nur weinen und schweigen. Die
+Schwachen mögen sich in Tränen
+[pg 94]
+Luft machen, die Starken werden durch ihr Schweigen
+das Erhabene grüßen.
+
+.. class:: right small
+
+| (|Feuill|_)
+
+.. vspace:: 2
+
+
+Unsere verschiedenen Vorstellungen von :gesperrt:`Gott`, ob sie die
+Weite Spinozas haben oder als süße kleine Abbreviatur im Abendgebet
+eines kleinen Kindes gelallt werden, bedeuten ja im Grunde
+wahrscheinlich alle dasselbe.
+
+.. class:: right small
+
+| (|PB|_)
+
+.. vspace:: 2
+
+
+Gott zerbricht die Werkzeuge, deren er sich bedient hat.
+
+.. class:: right small
+
+| (*n.* |A. Friedemann|_)
+
+.. vspace:: 2
+
+
+Die Sehnsucht macht den Messias.
+
+.. class:: right small
+
+| (|Altneuland|_)
+
+.. vspace:: 2
+
+
+Was ist die Erkenntnis wert, die mit mir endigt? Und ich will mich
+vermessen, mit dem Unendlichen zu verkehren? Ich muß die Erkenntnis
+über mich hinaus verlegen, in mein Geschlecht. In meinen Kindern rede
+ich heiter mit dem Ewigen.
+
+.. class:: right small
+
+| (|PB|_)
+
+.. vspace:: 2
+
+
+.. backmatter::
+
+[pg 95]
+
+
+.. class:: center small
+
+*Der Verlag B. Harz, Berlin,
+hat für die in seinen Verlag übergegangenen nichtzionistischen Schriften
+Herzls den Abdruck der Zitate freundlichst gestattet.*
+
+.. vspace:: 2
+
+.. class:: center
+
+In dieser Sammlung
+sind Zitate aus folgenden Werken wiedergegeben:
+
+.. vspace:: 2
+
+.. |Die Causa Hirschkorn| replace:: *Die Causa Hirschkorn.*
+
+| _`Die Causa Hirschkorn`, Lustspiel in einem Akt, als
+  Manuskript gedruckt. Wien, im Selbstverlag, 1882.
+
+.. |Der Flüchtling| replace:: *Der Flüchtling.*
+
+| _`Der Flüchtling`, Lustspiel, Reclam-Univ.-Bibl. 1887.
+
+.. |Die Glosse| replace:: *Die Glosse.*
+
+| _`Die Glosse`, Lustspiel.
+
+.. |Buch d. N.| replace:: *Buch d. N.*
+.. |Buch der Narrheit| replace:: *Buch der Narrheit*
+.. _Buch d. N.:
+
+| _`Buch der Narrheit`, Leipzig 1888 _`[Buch d. N.].`
+
+.. |PB| replace:: *P. B.*
+.. _PB:
+
+| Das _`Palais Bourbon`, Bilder aus d. franz. Parlament,
+  Leipzig 1895 [P. B.].
+
+.. |Das neue Ghetto| replace:: *Das neue Ghetto.*
+
+| _`Das neue Ghetto`, Schauspiel, 1896.
+
+.. |Der Judenstaat| replace:: *Der Judenstaat.*
+
+| _`Der Judenstaat`, Versuche moderner Lösung der
+  Judenfrage, 1896.
+
+.. |Philosophische Erzählungen| replace:: *Philosophische Erzählungen.*
+.. |Phil. Erz.| replace:: *Phil. Erz.*
+.. _Phil. Erz.:
+
+| _`Philosophische Erzählungen`, Berlin 1900.
+
+.. |Altneuland| replace:: *Altneuland.*
+
+| _`Altneuland`, Roman, 1903.
+
+.. |Feuilletons| replace:: *Feuilletons*
+.. |Feuill| replace:: *Feuill.*
+.. _Feuill:
+
+| _`Feuilletons`, Berlin 1911.
+
+| Herzls Zionistische Schriften.
+
+| Das Leben Theodor Herzls von Adolf _`Friedemann`.
+
+| Theodor Herzl von Dr. Osias Thon. Zionistisches
+  Zentralbüro Berlin.
+
+| Die Welt.
+
+.. |Kellner| replace:: *Kellner*
+
+| Theodor Herzls Lehrjahre von Leon _`Kellner`. Wien
+  1920.
+
+[pg 96]
+
+
+.. contents:: INHALT
+   :page-numbers:
+   :depth: 2
+
+.. image:: images/illu_096.png
+   :align: center
+   :width: 45%
+   :alt: ——————————————————————
+
+
+.. backmatter::
+
+.. topic:: Anmerkungen zur Transkription
+
+   .. |-->| unicode:: U+02014 >
+
+   Die folgenden Druckfehler wurden korrigiert:
+
+   - **S. 6, Z. 4**: Dennnun brachen Sorge |-->| `Denn nun brachen Sorge`_
+   - **S. 17, Z. 6**: Fremdenkomission |-->| `Fremdenkommission`_
+   - **S. 36, Z. 4**: Tagebuch vom 16. 6. 1895. |-->| `Tagebuch vom 16.6.1895.`_
+   - **S. 34, Z. 3 v. u.**: das Werk zu förden |-->| `das Werk zu fördern`_
+   - **S. 72, Z. 6 v. u.**: im Zeichen dar Arbeit |-->| 
+     `im Zeichen der Arbeit`_
+   - **S. 79, Z. 11**: trägt staatliche eiserne Fahrzeuge |-->|
+     `trägt stattliche eiserne Fahrzeuge`_
+   - **S. 89, Z. 9** ja eine eine machtvollste |-->| `ja eine einzige machtvollste`_
+   - **S. 95, Z. 10**: [Buch d. N.] |-->| `[Buch d. N.].`_
+
+.. pgfooter::
