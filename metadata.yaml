@@ -1,0 +1,40 @@
+_repo: Herzl-Worte_42219
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Herzl, Theodor
+    aliases:
+    - Hertsl, Binyamin Ze'ev
+    - Hertsel, Te'odor
+    - Herzl, Binyamin Ze'ev
+    - Hertsel, Binyamin Ze'ev
+    birthdate: 1860
+    deathdate: 1904
+    gutenberg_agent_id: '31209'
+    url: http://www.gutenberg.org/2009/agents/31209
+    wikipedia: http://en.wikipedia.org/wiki/Theodor_Herzl
+  editor:
+    agent_name: Theilhaber, Felix A. (Felix Aaron)
+    alias: Theilhaber-Berlin, Felix A.
+    birthdate: 1884
+    gutenberg_agent_id: '41579'
+    url: http://www.gutenberg.org/2009/agents/41579
+description: ''
+gutenberg_issued: '2013-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42219'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jewish question'
+- !lcsh 'Jews'
+- !lcsh 'Zionism'
+- !lcc 'DS'
+title: Herzl-Worte
+url: http://www.gutenberg.org/ebooks/42219
